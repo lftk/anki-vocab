@@ -180,4 +180,4 @@ anki-vocab generate --name "我的词汇本" words.txt
 
 ## 📜 许可证
 
-本项目基于 [MIT License](LICENSE) 授权。
+本项目基于 [GNU AGPLv3](LICENSE) 授权。
