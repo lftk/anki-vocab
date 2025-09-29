@@ -1,0 +1,1475 @@
+{
+    "web_trans": {
+        "web-translation": [
+            {
+                "@same": "true",
+                "key": "Hello",
+                "key-speech": "Hello",
+                "trans": [
+                    {
+                        "summary": {
+                            "line": [
+                                "<b>您好</b>(Hello)，您的此问题我们曾经为您提交相关部门查询(Inquiry)，我们会尽快为您处理，期间希望您可以再耐心等待一下，感谢您对我们工作的撑..."
+                            ]
+                        },
+                        "value": "您好",
+                        "support": 1466,
+                        "url": ""
+                    },
+                    {
+                        "summary": {
+                            "line": [
+                                "说明 中文名称 ：<b>哈啰</b> 英文名称 ：Hello 版本 ：APE 发行时间 ：2003年12月 专辑歌手 ：阿杜 地区 ：新加坡 语言 ：普通话 专辑介绍: 新专辑阵容强大，有周传雄、周杰伦、方文山、戴佩"
+                            ]
+                        },
+                        "value": "哈啰",
+                        "support": 584,
+                        "url": ""
+                    },
+                    {
+                        "summary": {
+                            "line": [
+                                "... hi（表示问候）嗨 <b>hello</b>（表示问候）<b>喂</b> A,a英语字母表的第一个字母 ..."
+                            ]
+                        },
+                        "value": "喂",
+                        "support": 304,
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "key": "Hello Kitty",
+                "key-speech": "Hello+Kitty",
+                "trans": [
+                    {
+                        "value": "凯蒂猫"
+                    },
+                    {
+                        "value": "吉蒂猫"
+                    }
+                ]
+            },
+            {
+                "key": "Hello Neighbor",
+                "key-speech": "Hello+Neighbor",
+                "trans": [
+                    {
+                        "value": "你好邻居"
+                    }
+                ]
+            }
+        ]
+    },
+    "oxfordAdvanceHtml": {
+        "encryptedData": "Oi7q_uLf41Op8q1BEZge7AaqKJM17DSt_ReKlwt7eUPcHao9OEimvTR627q0N81SZWdF51_zx_H24DOEQBWGYMs3E7hXVb7U6Q05tvH6EgjhgpWI2Tr3_kHY63XmFle1vXP7CFYxdNw2KJZDbdQvSx04wDB0Awy7PA6_F7Jstpmijbi2VJpUhvVwaVIj_xAQrfiY8mgwpV7IAvSmCeIireNhp08tQSZhPBlmq1VPDNT2zL5Iflq6HdLNlXxIj_S6GWt4bbgxH778OUlEC40oJtSLI4_lIE6BwzFEwut4QwMTPzGqiF7gZipeuPt7wLLrRb2e2Kbrohe8CYkf1eexTouaFm0gUNegHAXSCfZ6OYbvdDK_D9UsUg1W6JtZAv2KDK7TfKgYKaahXEBYz3wxauKH4wO7JKwJ5E8mn9kgIlVdjFkAGw0eGwcZYJy19o6Wb3aX3Dvl6LAGmVp-ksXxNlu5ECTxFYem8I55AkCURhJH6d3QgZgZK1O9fk0a7044rjozBs0oacDZdYlnk3SR2TJoGIAdSwtIpqiq7mcSC3_jb-e_3WUvr2LgoLv1MXNzA25STWE-eMQ4qQx9lyMHQJzksT12abHqCrM8SpOX1OQY7ABan6r6c7eN0MUwKwXnwhqdrsby8k5PsiUd-qpxxh8ETIvTjFEOEBjYsgXhevBe89kparHmd9dhxgHvnBOBCCWpZ63MAefJhGCH920CuhWfi9iMjuxt-v1Vr9KA6q94PD6KXeUpvXlnD7a_Tl6ybUBBq2yCZcAX-pZOsE2baRRnSbL5zkVdjRvW-9jdbZiCIRXAnV_DTnif5eDZimZku27FWy1hotBdaRHVX6-6PW9Eszyvnj0yKlHADRsEnruNB3V9fh0Rdn4fmHEEKuNfSwKITYUcV8ChxHLoM1OLoRV2i7Qrua9Nk2-xU3-TaHGdUMI-P5ZhAMAeFadPwU2OGEkyWEHTAba0iy1uj5LJ0UwX7AG3hbPjIBuScqpjrXzIRm-E5om-pwUrWRiHYxCsSi7BQzpvLAnvhmEeTZUzgmRYKHWS51But7m4xmIGFV2j8HAsbRuUxFSuBrHKF1vSYnzWqmvNYcccW_MK7DOfyLmylfbjzjufVl1HLTcD3a1vq1n8Cig6DDZRzAtT49RMUhiD9qBi85DMOMh_My_WYGCjEREJBWexQ9bWy2dwCnEZsFJtUOLPP_ZT5-6q2y8g0qTAV-p8_Bb7tgaC3n0BGc1UN52tmyERrxcpdhEVv5clCikQRQ2kWjVx06Ym1cHFftHNiVF0CQoJs7ZPA-Se27cXqEciWE8UrlrCpAcqYI3Eqsg5hEiKXvyZp2LFhYQ6K6pzDVM9zQ8J9xV1pNq88GPo0Lc8RVy4ytqH2XReqGAoaFM23wUND100Jx1cPtJP7V1PYQspbhR1FYV1keEXdihTIrzeKx6TAd5YNqDlp_YVGKli4HKkhKe-PMbkkOLBJeW4FSTD15esMSFe_KbtvvN_lL5fHCyKghifwHuLq06s4nTRRo6gXieQsLxPIhVdtrpMPcGjd-7y7Epusj_1Yq_LUJYJZjPgQeX2mLlKR93sWT0vquW20nwJU-ce8mU916nAOdLRuW1jO-ixJzKNrl6UIwCe9-fmxfEzJiOOTjuhlY1vE5vZdvwsH8aknb_oAZtJ3eH-AvScs0_qFr6Q6tci5wlUzY9AmPtqZYZC-sb1XZqdAUtlySssjaIC5UIvtuoawK9B1H7gRlUfYU2Un6JgBTOr1Xu4T7QImg3zqwKBkBYgqEYvv5qKN7O6byevCzWQOkh-sus5K6hk5f10i31ErYSVnqEFk1JLVSs7gU2B96u2fN2h5LcZnFqIlroUBdRdmOfqVcQmOdtCuOM89gYtJe1ytoBEH2xGqpVMz383sdmEJeXtPdairSiT-AcyCO_txZW5b4nceMet0aFneYl-9G1fy-2PxjcEkJBAdq_VISIosHOaDtDC71upWao7PWyt2O3EZ6F2ILfR5UzgaAu_fPoX2n0UwKFWVxX5KT-rHzzSiOSymL_joOKqJ5CpzzCZkBz4OAR_GrzHGNEeYcPZ2nlEvJhf632zwby2D5fsQoW7gZGA-15YgkANmdZ85qPCkt5qqeo2oKRSm_0Z4ZGFiCRaRq7ERU-lRpB_VWZmTxSCi5ic6ymF9ON-n3Lw0LjzeN_wrrZxJ4lG800jXDKpacUURXOVwyC-6j0RWlAp58eI7t2-JHCDodCxlr27QyME1UtMUy57RxtUtXUwaC5nroH2nHWO9HBTkVWVdK41j13ri6lWJgzIaa4uEKVxfDTbXN2pZt2XlDeWwSTe75rge7I3sR_E8NA1nyNXksaWJu8EyznbStFIR9sPMME5P3UOql4JEB1eG_znfrvxHKTtKWq09ZdJfJCoI9d5gkmWa2CKmTrbJipNNexr09wsF0gqVtbUcWwZyEM31bUFFQXjv78_tvIW5HBZJGfYy-fSo69ZkXQn3Fa7YDUvqaXC6p8NmPJGscULAz8RMisI6ZUoofk_j78HHyag4V3Q5jh5EF3u9-i_2_DsmUb84zowyDqBWS-H94igxS6wyDwg7L3Ya4gK_OhHjVykSxt78Pciz3E4p9hTmM7V8sw18WC8lgM71ivyY2Scb1dtEvHTCZPEr5dYT_kP9a3J8dNEL0gfRrgiq-YNiPAsFxC_I_LXlL6HTAelfo2uWebitNfZ7qBgBpLElAtmic3GcrXmlW2ad-w-2mrttynHNQu04Zv6RmJHSCxQzLaFs_YBsTd15yS2imwnuYy7oTCiZsoHmrLy-ITjM-BP-Nn0kOE6zJzEM9pSPCx485-IQwCfQ-HG5WnG5n-AkWKTt2em-gzA3aZySnHrqjkd9_qWhwTZlCgh2BizEYIOOMvFK4u0KlLFN4--ossb02Zj_sv6WbIOj3UTKMNTf0zWwvA1v2IE4DEM7oVN3c0iktiMYG0b2rLtiBKDtjrjbRYNLhtKmEwimu849IO2U9WUH2xxkrFg78gPmbSuF4OoW2lpiWCM7HPvk6QA_gbM7bHdeXdvwjr_BNfiMFs2fRwH3mdyv6rqDrfJ0gHjPaJY5MEhByPVo13cw-frEZPBWag3C_wddWdstVWDgR8o0vL7q_Y7AvZk5h6mirBcWMPoiTjNsOYYEKmiiD17KZ0xMdzbrsyx8rzyOCa4gHHQAoL7uei1eUmMtbKonV4MSjeZSezXmGKVVzRacXj5nrRY-8baxQXhkM8-0Gv1QctTt0ux57XR7SyoWBIt9GBe2xj0enlLwRme4agcxtIE_dCAgJfDZmZfMOHtGD2kYrJSlEziSpENLQLTU09b_Nk-IknmTlIPvm3UJUOUm6btyyiw8v3dI7t2ar1-HxH9y5OUrs_78E0xC3aHQKtUP21d6ES923QcYaK91j00qOupx9OyQS_UwTs5WTRtC_4rUk3Pr5_EqtRgz6P6W6tl_-8_L-2RpFKUUWwa15NlBxSOSAm_8sMlTZOsrYhOoIHGb6WqrpT9MWy-ebYmTsD0sJs7VNZwHCXkysYbzRRB8hBehsUpHcfbQULg_RtmcFvgB_qv0K8LSv2GFhqDCnljGYkIt0AkWEujgkTiHtphBP_WuvvVIJJx2KhSEdgKZSdhH9gNgPBOXMwDZ8mmuh3DuYaM-wt-2fqwwu5n--2-tR2dMuMGmwjqcRDQmq0Ii1kGQLip4Ih1mCapWQ400dm9KpblFtA0BWigfYHv3Y1SOy1GKKP2auWFw6wL2PNRoK5rzeU-RR8ZKJfrIVkVj08aQqK8EEQKd_h5jQTz7fCPTO_2q81GJQm6aIJ3YHHzhxwqCnlwUM_MkANBm3b93mbMyG_zudXpLoSLcJe36AKllIBSmiS5Rlo4O_ugJxIQDhdd_qA5f93LfKJeifala4J8jJEHOHh6hTaDYLovXK6lJTFq9lMN96NveuDkUSPKVN3NO64IdqTgXpm6SdslB3S1VEtDa0OYJVbvcAByeETtHISxTdLzpob3DG1H0T84hOtNJqIPT8vgTPkuKZciahwXLgIXwCy1tz9lxCIS_f4Iq_hriufWtRde-E8RG6TfkjRKYWgM15eweo72pmA6i8vmYwNFBttOi7mOFtXK5-lJTBKEJ6abpnh1J5jTDxmScJXBY4R_oJajT92HI1MV0gQTY9Y0XHYbV6FiLEDe8bBioK9dTt3LpwTO9FaPTkPl6vw7p-5TJZI74wX9lWhUfW1XOUFJJLaQSe6cQ-7NKi0oqELr7-NoxV9lq-yNG_3kYi9kYoDepYWS1SKjVSdKxxoGt0GgfWxMYxobC3zHbPI3voJUUkgvIy7F50x_yWgaDRIVMPX5IXtfweaOg_wOwjtU4fvwfJubtjF5L8xnhFeXOzZX7G0GN3wi3engJp5l8N0Bm-ANWq2dfnnL-2zJNeOVZhHjwFnkeUowMc2F1XgDf3_4L5Lrq7ol64VbgHKCNaVH9QM50lvjumrFGrQ2mPHC-Fdsc3OkN6vW4YQLGki0lQo8HI-vRhwXprpaqktT0NlhT6Pvk5fkfjVQcv7sMiLHpwOqTVMUVvEfImU5Vli02rRjMCC7tHV9DGAF2aGyzWxA0bzTdo44fBJBn00x80IJIu18t3qm2EYJtKETreaaCrpd5J4NlQL7dPCRBBosKeH_-hNJQqBkLC8mQmPAVOzJ3QzLZWPGW2ZHHaPJBYE9A-rm1gaLX4ntJkUjNvbQdELRwWOBq4a_rGQtkCXpxj8xwm9sV2j1LXFOCXPDgRKLCg0BY5MLcoz9AX-ZwjXkn-cEk80w6ixABTUWsnrv0MMVaRNbVefWI5zjMKUYVMA_wdLrxLE5yS9naQf0v_F0XSdu9TdcGuIythL1CNxyhAJQsgSWUkArQRuqDIS-XnCHp72H23kso_lSLHzGvCvxdO2-Ui1dCpOHGyxAGPcfIgwZSyatqZYjJyYDDq3iXxtMa1HseAfBxDBijYkVSROvcyM9FFMkAFkscdYmqFLxtkNZgF8h0rZFh3p7f0YWYl7AJaczSpqz012otoJFnQK4ye9OTnnwfC6oxF8dxn279c5e5jQ4F_DDid2E7WgrvqMroqPnTgmFPAiiZGhlA78qpHg9iRowgs5wGsZOuF8QKvUbfZ9HFFUx31yVN5vPt3WzHR06VWRn6rIdaS_2mQrGuvWTPo7v94UB1r373nd7zJLuTkQeDJLF-ZkVSqkZHAIkcGIhh1nw1Yh3Ctdp-Stxz65Q0TIOde4nnbXbSDYMeajXIbQpZ46C6YnkvsPIYlzd2-xQNlGCsNpFKBD6tCi7lJh1nVneUkUGLPFCzBQrk06K-WyTCgnxufme-K4wNUksBdETYO221GizkZeNUB9Jekl5wNGgw-h4EWTsrRrtMRdbhQXv8w8Ma5VNpv5dAmdjVFmvgX5qckMNNRrou-ZRIEtTOO42c7otNx2E6EbgKfO1CZpVeY1UcHnNuOiuOUW-8fNui2OIbZr6wzwbc9q3igjz2EadjTn1t2gKnSKOjxRvk4bFaP6t5DczTfh1C8-ZJi-mPfi13mETBGMRgoc8AktAvFXyPgrvGo5Fpb9azStmChBLvFAdwYfTRB_y5OxwjeQXDM0wLwPYQ0zB_Qup4dlQ0-brUxcfDLzAxvOCAgDuuoFjEL-hJoRvP3VHnTkDiYHaI1qHbX1dv1c9Dx4ytv90oGS4pj-wRXbkDWsiCZsdjOAqIArP1hKCZC7Cfpc1muag-voyxrO_Cwb6vXPjifedzuSfvx4N16C-w69ih6brUBIZKwsJYJay6EUn-0-faIMQKJEa8Uw5t_OkHTJ6oNBUkArXgburw8Q1GSGC6onr8zjpcT5SL3qI6vCExqKJ6oM8zduWM6-ZHsVgpted4vK_y8dy-U49sDN7nquUbGkLUolR7FMmjWow-9XQWcw1jr0KtDgYtpb2YNoeLcOg_sA55_ZRvtDXp55ghS42XPEzXvPwQBbtUu3Tyu6_S3zRyFLVz_kR2xfk-GH_K8vjiGsbe-bz-nYgE0Jxw7GNTPiuToUHGbEZmH1MTrkCC4CUBIpJuQsWi9M4PhgZ75ojCfVRDlfN1vsJu6vdqms_ZwmzF6n_gs0xNTcVmSBlnEm7jNqKB4Vz33UgeB2n-rxPGW_FvcWDI2jd2yBawY3HxIreq5c16GEixqgiLDrzxMLrkOH_5lyc-hFdIPqF1yvCvqrwMY0CCC8MuxSNFv9R99-JzgJXmJ8CjvLaLeICTDP4HuyBRnqmcq3mICI4i7dux7GN4ZoxiDMhAMcBIZ5eUlp_l9bgQnVNuJ2lYn6xwxY3c5EIE5lnR-eM11-HSm3AUcM94RZLn4nQxEWWyw96vyQKkrh4BCvRifh0QEIwq_cWyYDoL6YR5fOxf5SaBXAGsYMlUjqYMZeekc-vDPdg-x4JNJikPgtDxZPdzjmJ97DokuoL-a06oCIPkodiIoXVTvpsWO3zNC_VH-blaFmcCZo9ZSEfc3P95wWlU0L9YITIYnzb3Zz7q1tnikW_-dAjXOLmdwMvxno9jJIcqahQw9Qvp8zw2yuw-8eIjWGQHk6iuA0AWdSjYL_dwYZqDGh3GXX_fCTs9DqHVlKsW0mVwFalnCTU_p-P2bZOyehudo9PdaMVa-QiTKGgLBk9p5n14KBNqEnKJFlisF_waflc5LJ1Lg4gWe2iY4P6yGMveSr27btMsqqf919nfsP_aT6l9A9ZKjgkqYlN58-sXs-C1JgFdiIAnyGh-nv5w_HtDu8Yknmtt3BtnIBG01BpfQTu9vC2huyxgguO4YJT5Hf_SBXFhFjtWETqY3055_eOczVZUKthwS_4UGWIDqA15E0DLJ9y_Fq4X5RZnqAarobJP10TC-gz-uh2bmTZkscZV0QgsZ6gxvtDxNh52Fuq7qO47N4ehlFTFwTWd2P697cL2coQZc_LQRC-IohkvsAV0RE1zYIDXttX5lBM8SY7WnPeLboJ38E85Y5xcbSNhmam5VSjiRVtPC5ZQGBUP_y4BefjBv90yyK5pUoAktEIln1Akcw_oWoKZOWC2vF6e0MCA1ueIsdFP3DFHakUbCX0v5L6THK3AHLGlIl7xgx36Jj8VQhPsNnBuFhg7Ikdd6Ybpcu3EiMiyASLz_njLgk1SW7F0-xVGbWzC5UA3g3RlroWFVXbpjnmgxMF09V6u0WhsECaVwjYd5inRmMzPv5yRejNRcXZq47uguU-8EpRbZbvZAaVA7d_DiCCIJ9Xm8F0YwqEqXbZMPP0LvPFiczeHesuSo-slA34dusWTYTRWNgc44Wx-Nt-PWIeDuQCMUMxk_Ki7WoCswgoUHCOe8wRm8AVzkfSZ1TVCHVYnr2OiAYuG7z-41PyB3bxvMAGB9f1aaKHhxlcnMKFOUz29tH4imz9p7uTjE_ZQjNvoVENG0HbbdKOxo5I9vLUC_StioQ4OVX89DV2JFBdZkM6-znQOrXQyJuZAyZRwhYQ8ZYLwRnS_qPLVTXJ0z-weYKxU2b2-5PjRgjtIiqx1hYOnmdaKamWTJdu4wol_neO8ly1f2zTkvOzmFTts7kNIHR6iLyN7outH0PydTy45kJ4PBwC5jjtetUmcWnAtxrL-K08rGKeOnA3NL07BleeTmSn7G917nBbwYWiJHWIZ9Hj6oD_gmLt18_B3KwPqKpxK3BK0zrpwLNcPFdfCzlih4u3FcUEWkIxBJSJYgTRskU5VnoCodffNG1htjajJhZh6aNVH7tRRoF7Gd1MVoMnA_isNte0kBpT_Y2wo2evGX3HrCN3Wx90FyTroptoiGHxgbS1JSW0TsZ2jF4Y14QWInAQpDhHo9UMYGj7qPl6-kF-Ed2nAy5pKqOJBe5YfvCPyvqNzpIMuWxYwF7ihS5yu_3qknxt7fH1L-bjGvqtVhqGf9jTYhRq4Igboipw4cC3ZfuzR8BEv2CTPACxQN5Ear_AKYjei3xw2wgH8fULIMu_t8BizzLw4d4r9FUOIlURfEykXJvNowiXjSy8GHBMxYkXo0tXgzfW4k4qyNgLpwKlPniBBlnadjOS7h_Mm_3vnP6OvnGB7KaVOVVdnDgbvgqMu92HlTynoqFfdok6mOVsCGwB0dTlz1FzQbbTfFAl-4FKyLvLPvQO-ZGn49S2p2IetW4oIpN2wSfLZY07fTE6aE4EErejaZGlRarhiLrExYOqHh1NkRrNKUsu_YIg0a7Xm3pl_AYG5oElZXRcvgST9H6LPcGXVyyKTaOCt2FMEaFF7dlfTp8jDd0Hd79wCfkhutm9VXFmsaDF5vlaTLyRCLAO_VdCI6qxv1bvJiQwZ6h3rDv3QtX7FzooQUXzWG3dsA415kOw718gmzKlPpQNTjJpcjyD-SdnoRiLhHEqo4vGsn9LXh5HcuG210wcn3cpfYhP6oOiswdD1lHmPQ5bUTufTzSqso_kY3tdzwg-so5jpZfd9TaAP9Xn_sueWMTeuOd8zsl46HviQbqgEMQ5vEMKPn_SEj8k1GV_wMy2kckq_F77vu-lnhoi98gisYo5_uWYyIkB3eLXJLzDP9Vcqm-9Ge7-sQ5kkKB5NVqb1Y9lz6VL1m21oplvv0WZdhAYfnlxzcKICyELtOOtWZSt2QtSbNiBQb-jh5DQGJAc0VkcpJuFbZ-ZiTLNcW7myHhY5UhKCiJ1ecYUyZot8SFt4SjLjZJKUHWIPEGHkxTlyDt2zcr743n9AQwFTz5kwUHaJGSDZAqQGP_pDj7zjQS9gvKjoWUDfw=="
+    },
+    "pic_dict": {
+        "pic": [
+            {
+                "image": "https://ydlunacommon-cdn.nosdn.127.net/5b93b490cc1b680559e861c72dd5b0b2.jpg?",
+                "host": "",
+                "url": "https://ydlunacommon-cdn.nosdn.127.net/5b93b490cc1b680559e861c72dd5b0b2.jpg?"
+            }
+        ]
+    },
+    "simple": {
+        "query": "hello",
+        "word": [
+            {
+                "usphone": "həˈloʊ",
+                "ukphone": "həˈləʊ",
+                "ukspeech": "hello&type=1",
+                "return-phrase": "hello",
+                "usspeech": "hello&type=2",
+                "collegeExamVoice": {
+                    "speechWord": "hello"
+                }
+            }
+        ]
+    },
+    "phrs": {
+        "word": "hello",
+        "phrs": [
+            {
+                "headword": "say hello",
+                "translation": "打招呼；问好"
+            },
+            {
+                "headword": "hello everyone",
+                "translation": "大家好"
+            },
+            {
+                "headword": "hello and welcome",
+                "translation": "欢迎莅临"
+            },
+            {
+                "headword": "hello again",
+                "translation": "回魂妻（电影名称）"
+            }
+        ]
+    },
+    "oxford": {
+        "encryptedData": "TNvL5RvzrtPgEpLHE_NgTvMMps7y4fRHaUEzdolM_-WBHuFB8Sgrf1hzjIJ3c5growu1-B4Z3VdilAVpWx8asPn3xU6WNYSofHyYnn4V6BbIlCg_BfbcYUmLKuosqMGytYsqQPn9idlphuTXWUqjyeuijyUou7d59gVzaz-8y3kpA7Fg2wkOf9FbxKVTTh-Lo0Dh2idxOVh3IlGYyl4P5td5WRP1egFR7A63lmJtDf5Ird27JUzXu1odlKfr0Qyw-YlBiuZpJxEm6wedVG84MhRS6mHO_bqtjq1i858-HdYeMCaInSwcPZ2sZZz8yjxYjs3AAmgkSLf6NYJTqBiL67VWz3gENujqFNFRnZE5DYJzAIJJZMYMeWjj7iOfFqjb92UXH7WJPFKt1tvt-_6TE349yGAZ5TKJ7FgslZSghaU_RLyWg_awxrKKRc2Wyiig-FaDEqBgjuDbilS-f_ena_fSTgst224NuKDtv4B_ka95sYLQJcg6Cjw5P3UE8fWRpc_fD0v0k155aAjfEAnwclq1veanksvZTMq9OuK9bdA0SEcULJHOK4C2ZtuxTGTKJY5eTNZp26MTbLvSRzWlIg3Pk5zEsBNi2GryR0TnHK4y_hbGbPzAopy79bnQeu5DQ4YTZ7y5DaYDqp4GAvQkcddNgEoprPTDtp-y660ygcV3UE--USzirX7fuFl0ZjyIghdm_UbVwWdzkzUpyUICrhVGDMCWsMmGYYs8ht--TXUv23E6MZ7INVf2cVZU8-YsbUDSVe1fNlp62otU8s6SUNgb2gUogR7KWk0M9SXJHMg1kfHq9ucPKXFJtek43ZcS3zpWSAjIDwsuTtINnUQwziX7ZeJr-vZ_5pW0JOprKqMj1gpxGVMUNAyJsSjItx_oqGNu3Q5063LTYCo-G-sRd_RjE2iaYgb-dgWlG_wezBSzsOt7CoLEteM4H2QiWwqwAP6nTzxqcN90NRNC9RS7woVZCAQ2LV0eRn63mATWDM9BByXl4B2XjrBR26fbsT_-N6A9Vh8CsX7QMMJGB9UCWchBvUfCroq8pmvtZzzxZxLnmJ5isTRDsAx6VrV_PbAHho4EMu8jreFpnbAXzi9nk4U3g1ozHpzz9MBh5PC62bzh7ouSsFbqrS9agOHB3w31IgtahwaQNL-3ZQreXUQTotu9SnQgwtNdbJnpOebiGPljHcerF0jnrveK3k936ZtNWtRvT4OjkV-1OYjMrNKuFZ1DcEoNCem76nF7XMw5j4JB3ZJQhr6lA0M1qJ1znrcVTO_1trLb10VXDF8_ebi1iNTdXsCC6kIY4SjEbcqb3FO3YXcAPWTiTmWHRAU2oYNPCdoWMEtEIlOpVjhAYXp_Ji8lTWK25CNAG6kdDUeU68r_CDzf_vAEdqF10RGXwFsSe4SnquBALwLPSO2XdaZUKLog2fHG3p8neXUyF0wcDZzHKofdsN-2kkHPZQI8AptS_mcWJAchn-K38e0m0In6TV6ts90BiYL7GsDUSf0KsxqmQchsDPunZuq8a2-Lf_tkCQPDok5jE4a3o_3odtJBAhi_6SD0B02qrYG8f-_BDYYlMxhH_PYE0qSy6vSHn0jMABgwddFZHIlghpIsqlt__DKQHcbFsKS4AtWx0ENvrm-yBJxtSIm0_MTtTqa2Om-no_g4igGT0Ab1qxY0hFHYs78IqlzMLeORrH8Kllb8D6iJ10Gwgb0axOM9q9Xv4xVXd_9OIdcfei8--NZr33dHO-tQ2_5QXif5nrSIizz_sRenHdvGsdERucGedsF3HgbCtZ4_8JcNGk4qwYzejs5lq0vK2z3aDEgHiXIQT588jFTsB14_Ph8G4N7qqtvCYi6fXiL2V2s1yA_Kuupe1BRu-X3i2lmW2lAddS2mxYavenl0M3-Rjey9nhnB6FPC3SZAS6Pljub8OPQ4nIn4fay-FnPUSj2dWlKVr31I_sLsrnYEvwEBRTiaGqvqdtEeSKcqQ6Tui_Wi8WjUXwSIo9ICMGtd6X0Xc7X2sq7y4j-2sRNUtK6QFDLJP3o5tKVm1f3Zgt9953_aJPYYprrN47-rCqVcLZgYxmyjFeCX8ziuM4e44cgnL_yr11av0uN4HCQutDKSRUrkAVC67k2B15L8otIeW3ArQnv-p66GC_kzF1uq5QYRw-v9nl6S-tYtDd1aOQ0nv0YZYlt6zHFiRSSZILz9ecXhEuXGn5nu5AghZJk="
+    },
+    "syno": {
+        "synos": [
+            {
+                "pos": "int.",
+                "ws": [
+                    "hallo",
+                    "holloo"
+                ],
+                "tran": "喂；哈罗"
+            }
+        ],
+        "word": "hello"
+    },
+    "collins": {
+        "collins_entries": [
+            {
+                "hwas": "also hullo",
+                "entries": {
+                    "entry": [
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "CONVENTION",
+                                        "pos_tips": "习惯表达"
+                                    },
+                                    "box_extra": "套语",
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "你好，特里斯。我就不握手了，我的手好脏。",
+                                                "eng_sent": "Hello, Trish. I won't shake hands, because I'm filthy."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "You say \"<b>Hello</b>\" to someone when you meet them. 你好 (打招呼用语)"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "N-COUNT",
+                                        "pos_tips": "可数名词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "那位推销员向我打了个热情的招呼。",
+                                                "eng_sent": "The salesperson greeted me with a warm hello."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "<b>Hello</b> is also a noun. 招呼"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "CONVENTION",
+                                        "pos_tips": "习惯表达"
+                                    },
+                                    "box_extra": "套语",
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "一会儿之后，科恩拿起电话。“喂？”",
+                                                "eng_sent": "A moment later, Cohen picked up the phone. \"Hello?\""
+                                            }
+                                        ]
+                                    },
+                                    "tran": "You say \"<b>Hello</b>\" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语)"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "CONVENTION",
+                                        "pos_tips": "习惯表达"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "她很轻柔地喊道：“喂？谁在那儿？”",
+                                                "eng_sent": "Very softly, she called out: \"Hello? Who's there?\""
+                                            }
+                                        ]
+                                    },
+                                    "tran": "You can call \"<b>hello</b>\" to attract someone's attention. 喂 (用于唤起别人注意)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "phonetic": "hɛˈləʊ",
+                "basic_entries": {
+                    "basic_entry": [
+                        {
+                            "cet": "CET4 TEM4",
+                            "headword": "hello"
+                        }
+                    ]
+                },
+                "headword": "hello",
+                "star": "3"
+            }
+        ]
+    },
+    "webster": {
+        "encryptedData": "chER4buqB10hA5xQnA47V86EKe0kz16pwRNePMU_etlHZXHVfEgzSNX-m1IRl-QLW4XuJgoJDTx38OrodjsdLUPwbJcfd6pYWfOxytCkNQOdCMiT_5-X6sGKG6TAkuZCHGfHO3YJzZ7vXfn11EjniwLJ7FfBIyYsOt2xTPKoIhwdzZA29-qPVRsm-UjCTrgMWI-sEtTXAnCfn6QHEv0HzdHTi087QwRB2qgF26nW7u_KZapG30NxUtpHxk-qJ5x4e4kTTjmvAdwaLZQSOMsAh_P7N8_p9nA64atkPff2OMppygEFepTL2PhUbEIdZ2wemY3WFw8yeLyumwEif9WJzl3Nar5jEw4CHs-8A3Q-AsWfAFsZ51lzVCRF-_0_pYAQM2nLYD-29iOMp6-nmPJey_UWcDRdF33Mi2IzJ4taRqSDM_Cg78WJ9JHIktnh2Uhz-mKyDN93GiloWxhHcsTs7FXdzdXhhSzWDJowMor2kEZQv9HhJCEJ6vuMo7F4FpSTTw1bF5vQsYQxPZenfX2s5aLeppdGRQ0Yk5LqTZssaG4FUHZp-1wzfX4t6QZAVFxe"
+    },
+    "wikipedia_digest": {
+        "summarys": [
+            {
+                "summary": "Hello (stylized as HELLO!) is a weekly magazine specializing in celebrity news and human-interest stories, published in the United Kingdom since 1988. Hello is sister magazine to ¡Hola!, the Spanish weekly magazine launched in Spain in 1944. ¡HOLA! Spanish, Hello UK, and ¡HOLA! Mexican – launched in 2006 – make up the magazines published by HOLA, S.A and distributed in over 100 countries. Local editions of the magazine are also published in Argentina, Bulgaria, Canada, Colombia, Dominican Republic, Ecuador, Greece, India, Indonesia, Malaysia, the Middle East, Morocco, Nigeria, Pakistan, Peru, Puerto Rico, Russia, Serbia, Thailand, Turkey and Venezuela.",
+                "key": "HELLO"
+            }
+        ],
+        "source": {
+            "name": "维基百科",
+            "url": "http://en.wikipedia.org/wiki/HELLO"
+        }
+    },
+    "lang": "eng",
+    "ec": {
+        "web_trans": [
+            "您好",
+            "哈啰",
+            "喂"
+        ],
+        "exam_type": [
+            "初中",
+            "高中",
+            "CET4",
+            "CET6",
+            "考研"
+        ],
+        "source": {
+            "name": "有道词典",
+            "url": "https://dict.youdao.com"
+        },
+        "word": {
+            "usphone": "həˈloʊ",
+            "ukphone": "həˈləʊ",
+            "ukspeech": "hello&type=1",
+            "trs": [
+                {
+                    "pos": "int.",
+                    "tran": "喂，你好（用于问候或打招呼）；喂，你好（打电话时的招呼语）；喂，你好（引起别人注意的招呼语）；<非正式>喂，嘿 (认为别人说了蠢话或分心)；<英，旧>嘿（表示惊讶）"
+                },
+                {
+                    "pos": "n.",
+                    "tran": "招呼，问候；（Hello）（法、印、美、俄）埃洛（人名）"
+                },
+                {
+                    "pos": "v.",
+                    "tran": "说（或大声说）“喂”；打招呼"
+                }
+            ],
+            "wfs": [
+                {
+                    "wf": {
+                        "name": "复数",
+                        "value": "hellos"
+                    }
+                },
+                {
+                    "wf": {
+                        "name": "第三人称单数",
+                        "value": "helloes"
+                    }
+                },
+                {
+                    "wf": {
+                        "name": "现在分词",
+                        "value": "helloing"
+                    }
+                },
+                {
+                    "wf": {
+                        "name": "过去式",
+                        "value": "helloed"
+                    }
+                },
+                {
+                    "wf": {
+                        "name": "过去分词",
+                        "value": "helloed"
+                    }
+                }
+            ],
+            "return-phrase": "hello",
+            "usspeech": "hello&type=2"
+        }
+    },
+    "ee": {
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hello"
+        },
+        "word": {
+            "trs": [
+                {
+                    "pos": "abstract:",
+                    "tr": [
+                        {
+                            "tran": "\"Hello\" is a song by American pop recording duo Karmin. The song is the second official single from their debut EP of the same name, Hello."
+                        }
+                    ]
+                }
+            ],
+            "speech": "Hello",
+            "return-phrase": "Hello"
+        }
+    },
+    "blng_sents_part": {
+        "sentence-count": 6,
+        "sentence-pair": [
+            {
+                "sentence": "'Hello, Paul,' they chorused.",
+                "sentence-eng": "'<b>Hello</b>, Paul,' they chorused.",
+                "sentence-translation": "“你好，保罗。”他们齐声问候道。",
+                "speech-size": "8kb",
+                "aligned-words": {
+                    "src": {
+                        "chars": [
+                            {
+                                "@s": "2",
+                                "@e": "7",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "9",
+                                "@e": "13",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "16",
+                                "@e": "20",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "21",
+                                "@e": "29",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            }
+                        ]
+                    },
+                    "tran": {
+                        "chars": [
+                            {
+                                "@s": "2",
+                                "@e": "4",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "5",
+                                "@e": "7",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "9",
+                                "@e": "11",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "11",
+                                "@e": "16",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            }
+                        ]
+                    }
+                },
+                "source": "《牛津词典》",
+                "url": "https://《牛津词典》/",
+                "sentence-speech": "%27Hello%2C+Paul%2C%27+they+chorused.&le=eng"
+            },
+            {
+                "sentence": "Hello, is there anybody there?",
+                "sentence-eng": "<b>Hello</b>, is there anybody there?",
+                "sentence-translation": "喂，那里有人吗？",
+                "speech-size": "8kb",
+                "aligned-words": {
+                    "src": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "6",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "11",
+                                "@e": "16",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "17",
+                                "@e": "30",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            }
+                        ]
+                    },
+                    "tran": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "2",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "3",
+                                "@e": "5",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "5",
+                                "@e": "7",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            }
+                        ]
+                    }
+                },
+                "source": "《牛津词典》",
+                "url": "https://《牛津词典》/",
+                "sentence-speech": "Hello%2C+is+there+anybody+there%3F&le=eng"
+            },
+            {
+                "sentence": "Hello, is Gordon there please?",
+                "sentence-eng": "<b>Hello</b>, is Gordon there please?",
+                "sentence-translation": "您好，请问戈登在吗？",
+                "speech-size": "8kb",
+                "aligned-words": {
+                    "src": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "6",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "11",
+                                "@e": "17",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "18",
+                                "@e": "23",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            }
+                        ]
+                    },
+                    "tran": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "3",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "6",
+                                "@e": "8",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "8",
+                                "@e": "9",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            }
+                        ]
+                    }
+                },
+                "source": "《柯林斯英汉双解大词典》",
+                "url": "https://《柯林斯英汉双解大词典》/",
+                "sentence-speech": "Hello%2C+is+Gordon+there+please%3F&le=eng"
+            }
+        ],
+        "more": "blng_sents",
+        "trs-classify": [
+            {
+                "proportion": "100%",
+                "tr": "全部"
+            },
+            {
+                "proportion": "74.2%",
+                "tr": "你好"
+            },
+            {
+                "proportion": "10.5%",
+                "tr": "您好"
+            },
+            {
+                "proportion": "9.0%",
+                "tr": "喂"
+            },
+            {
+                "proportion": "3.4%",
+                "tr": "哈罗"
+            },
+            {
+                "proportion": "1.9%",
+                "tr": "你好啊"
+            },
+            {
+                "proportion": "1.1%",
+                "tr": "哈啰"
+            }
+        ]
+    },
+    "individual": {
+        "trs": [
+            {
+                "pos": "int.",
+                "tran": "喂，你好"
+            }
+        ],
+        "level": "中考",
+        "examInfo": {
+            "year": 5,
+            "questionTypeInfo": [
+                {
+                    "time": 38,
+                    "type": "阅读"
+                },
+                {
+                    "time": 6,
+                    "type": "短文填空"
+                },
+                {
+                    "time": 7,
+                    "type": "听力"
+                },
+                {
+                    "time": 0,
+                    "type": "翻译"
+                },
+                {
+                    "time": 98,
+                    "type": "情景对话"
+                },
+                {
+                    "time": 25,
+                    "type": "写作"
+                },
+                {
+                    "time": 10,
+                    "type": "完形填空"
+                },
+                {
+                    "time": 15,
+                    "type": "单项选择"
+                },
+                {
+                    "time": 1,
+                    "type": "句子填空"
+                }
+            ],
+            "recommendationRate": 3,
+            "frequency": 200
+        },
+        "return-phrase": "hello",
+        "pastExamSents": [
+            {
+                "en": "I wanted to say hello to him but I forgot his name.",
+                "source": "2021·广西-梧州·句子填空",
+                "zh": "我想跟他打个招呼，但忘记了他的名字。"
+            },
+            {
+                "en": "They're watched by millions, but I still find it strange when people I don't know say hello to me in the street.",
+                "source": "2021·河北·阅读",
+                "zh": "成千上万的人都在看它们，但当我不认识的人在街上跟我打招呼的时候，我还是觉得很奇怪。"
+            },
+            {
+                "en": "In Teahouse, the writer Lao She says goodbye to the old Chinese society and hello to the new one.",
+                "source": "2021·贵州-黔东南·阅读",
+                "zh": "在《茶馆》中，作家老舍告别中国旧社会，迎接了新社会。"
+            },
+            {
+                "en": "Sometimes we see some strangers so many times that we know their faces well, but we never even say hello to them.",
+                "source": "2021·广西-北部湾·阅读",
+                "zh": "有时我们见到一些陌生人太多次，所以我们很熟悉他们的脸，但我们甚至从来没有跟他们打招呼。"
+            },
+            {
+                "en": "She was scared to say hello to strangers.",
+                "source": "2021·湖南-郴州·阅读",
+                "zh": "她害怕和陌生人打招呼。"
+            },
+            {
+                "en": "Myra wondered if she should say hello.",
+                "source": "2020·辽宁-丹东·阅读",
+                "zh": "迈拉不知道该不该打个招呼。"
+            },
+            {
+                "en": "\"Hello,\" he said in a confident voice.",
+                "source": "2020·江苏-苏州·阅读",
+                "zh": "“你好。”他自信地说。"
+            },
+            {
+                "en": "Let's go and say hello to her.",
+                "source": "2020·四川-乐山·单项选择",
+                "zh": "我们去跟她打个招呼吧。"
+            },
+            {
+                "en": "Later that day, Zhang replied to Curry, \"Hello, Curry!\"",
+                "source": "2020·四川-绵阳·阅读",
+                "zh": "当天晚些时候，张回复库里：“你好，库里！”"
+            },
+            {
+                "en": "Hello, may I speak to Gina?",
+                "source": "2020·云南-昆明·单项选择",
+                "zh": "你好，我可以和吉娜说句话吗？"
+            },
+            {
+                "en": "No one forgets to say hello to the parents when they return from school.",
+                "source": "2020·湖北-武汉·阅读",
+                "zh": "他们从学校回来时，都不会忘记向父母问好。"
+            },
+            {
+                "en": "Let's say hello to him.",
+                "source": "2020·贵州-黔东南·单项选择",
+                "zh": "我们去向他问好吧。"
+            },
+            {
+                "en": "\"Hello,\" I replied, not looking at him.",
+                "source": "2020·江苏-苏州·阅读",
+                "zh": "“你好。”我并没有看他，回答道。"
+            },
+            {
+                "en": "I also bought a Hello Doggy hair band.",
+                "source": "2019·江西-南昌·情景对话",
+                "zh": "我还买了一个 Hello Doggy 发带。"
+            },
+            {
+                "en": "Do you need a hairband?",
+                "source": "2019·江西-南昌·情景对话",
+                "zh": "您需要发带吗？"
+            },
+            {
+                "en": "Mina waved to Nate, who waved back, and called hello to her teacher.",
+                "source": "2019·浙江-台州·阅读",
+                "zh": "米娜向内特挥手，内特也向她招手，并和她的老师打招呼。"
+            },
+            {
+                "en": "An alarm clock, called Hello Sense, can improve your sleep.",
+                "source": "2018·山东-滨州·阅读",
+                "zh": "一个叫做 “Hello Sense” 的闹钟可以改善你的睡眠。"
+            },
+            {
+                "en": "Do what you think might help others feel good, for example, say hello or smile.",
+                "source": "2018·浙江-金华·阅读",
+                "zh": "做你认为可以帮助他人感觉良好的事情，例如，打招呼或微笑。"
+            },
+            {
+                "en": "Hello and welcome to \"Words and Their Stories\".",
+                "source": "2018·内蒙古-包头·阅读",
+                "zh": "大家好，欢迎收听“词汇掌故”节目。"
+            },
+            {
+                "en": "Sometimes we share a friendly smile or say hello, but lots of people don't even know their neighbor's names! When you don't know someone, it's easy to be angry when something has happened that you think is unfair.",
+                "source": "2017·山东-枣庄·阅读",
+                "zh": "有时我们会给彼此一个友好的微笑或打招呼，但很多人甚至不知道他们的邻居的名字！当你不认识某人时，在你认为不公平的事情发生时生气。"
+            }
+        ]
+    },
+    "collins_primary": {
+        "words": {
+            "indexforms": [
+                "hello",
+                "hellos",
+                "hellos'",
+                "hallo",
+                "hello's"
+            ],
+            "word": "hello"
+        },
+        "gramcat": [
+            {
+                "audiourl": "https://ydlunacommon-cdn.nosdn.127.net/ea4859d792640504e7c3bcba886c64a5.mp3",
+                "pronunciation": "heˈləʊ",
+                "senses": [
+                    {
+                        "sensenumber": "1",
+                        "examples": [
+                            {
+                                "sense": {
+                                    "lang": "ZH-CN",
+                                    "word": "喂，特里什，你好吗？"
+                                },
+                                "example": "Hello, Trish. How are you?"
+                            }
+                        ],
+                        "definition": "said to someone when you meet them",
+                        "lang": "ZH-CN",
+                        "word": "（见面问候时说）喂，你好"
+                    },
+                    {
+                        "sensenumber": "2",
+                        "examples": [
+                            {
+                                "sense": {
+                                    "lang": "ZH-CN",
+                                    "word": "科恩拿起电话说道，“喂？”"
+                                },
+                                "example": "Cohen picked up the phone and said `Hello?'"
+                            }
+                        ],
+                        "definition": "said when you answer the phone",
+                        "lang": "ZH-CN",
+                        "word": "（打电话时说）喂"
+                    }
+                ],
+                "partofspeech": "convention",
+                "audio": "25981",
+                "forms": [
+                    {
+                        "form": "hellos"
+                    }
+                ],
+                "variantform": [
+                    {
+                        "form": "hallo",
+                        "text": "also"
+                    }
+                ]
+            }
+        ]
+    },
+    "auth_sents_part": {
+        "sentence-count": 6,
+        "more": "auth_sents",
+        "sent": [
+            {
+                "score": 0.9638049602508545,
+                "speech": "And+I+also+want+to+say+a+special+hello+to+Diane+for+her+wonderful+remarks.+",
+                "speech-size": "22kb",
+                "source": "WHITEHOUSE: <i>Remarks by the First Lady at a Campaign Event</i>",
+                "url": "youdao",
+                "foreign": "And I also want to say a special <b>hello</b> to Diane for her wonderful remarks. "
+            },
+            {
+                "score": 0.9638047814369202,
+                "speech": "Some+asked+him+to+say+hello+for+them+to+others+who+have+moved+on.+",
+                "speech-size": "19kb",
+                "source": "CNN: <i>When a Facebook friend dies</i>",
+                "url": "youdao",
+                "foreign": "Some asked him to say <b>hello</b> for them to others who have moved on. "
+            },
+            {
+                "score": 0.9637166857719421,
+                "speech": "Hello%2C+I+am+just+responding+to+the+article+%22Don%27t+Marry+Career+Women%22+by+Michael+Noer.+",
+                "speech-size": "25kb",
+                "source": "FORBES: <i>Readers Say</i>",
+                "url": "youdao",
+                "foreign": "<b>Hello</b>, I am just responding to the article \"Don't Marry Career Women\" by Michael Noer. "
+            }
+        ]
+    },
+    "media_sents_part": {
+        "sentence-count": 6,
+        "more": "media_sents",
+        "query": "hello",
+        "sent": [
+            {
+                "@mediatype": "audio",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "streamUrl": "https://dict.youdao.com/pureaudio?docid=-7151753065787129619",
+                            "duration": "10500",
+                            "swf": "",
+                            "name": "special.2011.07.21",
+                            "source": "VOA",
+                            "win8": "https://dict.youdao.com/pureaudio?docid=-7151753065787129619&dist=win8"
+                        }
+                    ]
+                },
+                "speech-size": "38kb",
+                "eng": "And see? I'm close enough to say, '<b>Hello</b>, good looking!'\" Actress Betty Furness was commercial spokeswoman for Westinghouse."
+            },
+            {
+                "@mediatype": "video",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "sourceUrl": "youdao",
+                            "streamUrl": "movie=http://dict.youdao.com/purevideo?docid=-1145882516289734313&auto=true",
+                            "swf": "http://shared.ydstatic.com/dict/4.0/simplayer.swf",
+                            "imageUrl": "http://dict.youdao.com/pureimage?docid=-1145882516289734313",
+                            "name": "哈佛公开课",
+                            "source": "计算机科学课程节选"
+                        }
+                    ]
+                },
+                "chn": "如果你还没有做好，那就看看你旁边的人,如果你不认识他们就跟他们打个招呼。<br>",
+                "eng": "So if you haven't already, just glance at the person next to you, or say <b>hello</b> if you don't know them.<br>"
+            },
+            {
+                "@mediatype": "video",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "sourceUrl": "youdao",
+                            "streamUrl": "movie=http://dict.youdao.com/purevideo?docid=-516693558806550685&auto=true",
+                            "swf": "http://shared.ydstatic.com/dict/4.0/simplayer.swf",
+                            "imageUrl": "http://dict.youdao.com/pureimage?docid=-516693558806550685",
+                            "name": "和纽约的留学生",
+                            "source": "SpeakingMax英语口语达人"
+                        }
+                    ]
+                },
+                "chn": "但我想，你见的人越多，你说的“你好”越多，你就会越发熟悉这一切的。<br>",
+                "eng": "But I think the more you meet people, here it's, the more you say <b>hello</b>, the more it's familiar.<br>"
+            },
+            {
+                "@mediatype": "audio",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "streamUrl": "https://dict.youdao.com/pureaudio?docid=-8231937232874573018",
+                            "duration": "10400",
+                            "swf": "",
+                            "name": "special.2009.10.19",
+                            "source": "VOA",
+                            "win8": "https://dict.youdao.com/pureaudio?docid=-8231937232874573018&dist=win8"
+                        }
+                    ]
+                },
+                "speech-size": "31kb",
+                "eng": "He was the end of the twenty minute drum solo. It was goodnight Haight-Ashbury, <b>hello</b> Asbury Park.\""
+            },
+            {
+                "@mediatype": "audio",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "streamUrl": "https://dict.youdao.com/pureaudio?docid=-5378284993433988762",
+                            "duration": "8900",
+                            "swf": "",
+                            "name": "special.2009.08.02",
+                            "source": "VOA",
+                            "win8": "https://dict.youdao.com/pureaudio?docid=-5378284993433988762&dist=win8"
+                        }
+                    ]
+                },
+                "speech-size": "31kb",
+                "eng": "That is the friendly greeting that means both \"<b>hello</b>\" and \"goodbye\" in the native Hawaiian language."
+            }
+        ]
+    },
+    "expand_ec": {
+        "return-phrase": "hello",
+        "source": {
+            "name": "有道词典",
+            "url": "https://dict.youdao.com"
+        },
+        "word": [
+            {
+                "transList": [
+                    {
+                        "content": {
+                            "detailPos": "int.",
+                            "examType": [
+                                {
+                                    "en": "CET4",
+                                    "zh": "四级"
+                                },
+                                {
+                                    "en": "CET6",
+                                    "zh": "六级"
+                                },
+                                {
+                                    "en": "GRADUATEEXAM",
+                                    "zh": "考研"
+                                }
+                            ],
+                            "sents": [
+                                {
+                                    "sentOrig": "Hello, Trish. I won't shake hands, because I'm filthy.",
+                                    "sourceType": "权威",
+                                    "sentSpeech": "Hello, Trish. I won't shake hands, because I'm filthy.",
+                                    "sentTrans": "你好，特里斯。我就不握手了，我的手好脏。",
+                                    "source": "《柯林斯英汉双解大词典》"
+                                },
+                                {
+                                    "sentOrig": "Hello, Joe. Haven't seen you for quite a while.",
+                                    "sourceType": "真题",
+                                    "sentSpeech": "Hello, Joe. Haven't seen you for quite a while.",
+                                    "sentTrans": "你好，乔，好久不见了。",
+                                    "source": "CET4·2003年6月·听力",
+                                    "type": "CET4"
+                                },
+                                {
+                                    "sentOrig": "Hello, ladies and gentlemen, welcome aboard your sea-link ferry from Folkestone to Boulogne and wish you a pleasant trip with us.",
+                                    "sourceType": "真题",
+                                    "sentSpeech": "Hello, ladies and gentlemen, welcome aboard your sea-link ferry from Folkestone to Boulogne and wish you a pleasant trip with us.",
+                                    "sentTrans": "女士们，先生们，你们好。欢迎乘坐从福克斯顿到布洛涅的环海渡轮，祝你们旅途愉快。",
+                                    "source": "CET6·2014年6月·听力",
+                                    "type": "CET6"
+                                },
+                                {
+                                    "sentOrig": "Honestly, if we got stuck in the rut of “hi”, “<b>hello</b>”, “how are you?” and “what's going on?” you will fail to give the initial jolt to the conversation that's can make it so memorable.",
+                                    "sourceType": "真题",
+                                    "sentSpeech": "Honestly, if we got stuck in the rut of “hi”, “hello”, “how are you?” and “what's going on?” you will fail to give the initial jolt to the conversation that's can make it so memorable.",
+                                    "sentTrans": "老实说，如果我们过度使用“嗨”，“你好”，“你好吗？”和“最近还好吗？”这些问候语，你将无法给谈话带来最初的激情，也就无法让谈话变得令人难忘。",
+                                    "source": "2018·考研英语二·阅读理解",
+                                    "type": "GRADUATEEXAM"
+                                }
+                            ]
+                        },
+                        "trans": "喂，你好（用于问候或打招呼）"
+                    },
+                    {
+                        "content": {
+                            "detailPos": "int.",
+                            "examType": [
+                                {
+                                    "en": "CET4",
+                                    "zh": "四级"
+                                },
+                                {
+                                    "en": "CET6",
+                                    "zh": "六级"
+                                }
+                            ],
+                            "sents": [
+                                {
+                                    "sentOrig": "A moment later, Cohen picked up the phone. \"Hello?\"",
+                                    "sourceType": "权威",
+                                    "sentSpeech": "A moment later, Cohen picked up the phone. \"Hello?\"",
+                                    "sentTrans": "一会儿之后，科恩拿起电话。“喂？”",
+                                    "source": "《柯林斯英汉双解大词典》"
+                                },
+                                {
+                                    "sentOrig": "Hello, this is Dr. Gray's office.",
+                                    "sourceType": "真题",
+                                    "sentSpeech": "Hello, this is Dr. Gray's office.",
+                                    "sentTrans": "你好，这里是格雷医生的办公室。",
+                                    "source": "CET4·2004年6月·听力",
+                                    "type": "CET4"
+                                },
+                                {
+                                    "sentOrig": "Hello, this is Dr. Martin from the Emergency Department.",
+                                    "sourceType": "真题",
+                                    "sentSpeech": "Hello, this is Dr. Martin from the Emergency Department.",
+                                    "sentTrans": "你好，我是急诊室的马丁医生。",
+                                    "source": "CET6·2011年12月·听力",
+                                    "type": "CET6"
+                                }
+                            ]
+                        },
+                        "trans": "喂，你好（打电话时的招呼语）"
+                    },
+                    {
+                        "content": {
+                            "detailPos": "int.",
+                            "sents": [
+                                {
+                                    "sentOrig": "Very softly, she called out: \"Hello? Who's there?\"",
+                                    "sourceType": "权威",
+                                    "sentSpeech": "Very softly, she called out: \"Hello? Who's there?\"",
+                                    "sentTrans": "她很轻柔地喊道：“喂？谁在那儿？”",
+                                    "source": "《柯林斯英汉双解大词典》"
+                                }
+                            ]
+                        },
+                        "trans": "喂，你好（引起别人注意的招呼语）"
+                    },
+                    {
+                        "content": {
+                            "detailPos": "int.",
+                            "sents": [
+                                {
+                                    "sentOrig": "Hello? You didn't really mean that, did you?",
+                                    "sourceType": "权威",
+                                    "sentSpeech": "Hello? You didn't really mean that, did you?",
+                                    "sentTrans": "嘿？你不会真是那个意思吧？",
+                                    "source": "《牛津词典》"
+                                },
+                                {
+                                    "sentOrig": "I'm like, ‘Hello! Did you even listen?’",
+                                    "sourceType": "权威",
+                                    "sentSpeech": "I'm like, ‘Hello! Did you even listen?’",
+                                    "sentTrans": "我说：“嘿！你到底听没听我说呀？”",
+                                    "source": "《牛津词典》"
+                                }
+                            ]
+                        },
+                        "trans": "<非正式>喂，嘿 (认为别人说了蠢话或分心)"
+                    },
+                    {
+                        "content": {
+                            "detailPos": "int."
+                        },
+                        "trans": "<英，旧>嘿（表示惊讶）"
+                    }
+                ],
+                "pos": "int."
+            },
+            {
+                "transList": [
+                    {
+                        "content": {
+                            "detailPos": "cn.",
+                            "sents": [
+                                {
+                                    "sentOrig": "The salesperson greeted me with a warm <b>hello</b>. ",
+                                    "sourceType": "权威",
+                                    "sentSpeech": "The salesperson greeted me with a warm hello. ",
+                                    "sentTrans": "那位推销员向我打了个热情的招呼。",
+                                    "source": "《柯林斯英汉双解大词典》"
+                                }
+                            ]
+                        },
+                        "trans": "招呼，问候"
+                    }
+                ],
+                "pos": "n.",
+                "wfs": [
+                    {
+                        "name": "复数",
+                        "value": "hellos"
+                    }
+                ]
+            },
+            {
+                "transList": [
+                    {
+                        "content": {
+                            "detailPos": "vi."
+                        },
+                        "trans": "说（或大声说）“喂”"
+                    },
+                    {
+                        "content": {
+                            "detailPos": "vi."
+                        },
+                        "trans": "打招呼"
+                    }
+                ],
+                "pos": "v.",
+                "wfs": [
+                    {
+                        "name": "第三人称单数",
+                        "value": "helloes"
+                    },
+                    {
+                        "name": "现在分词",
+                        "value": "helloing"
+                    },
+                    {
+                        "name": "过去式",
+                        "value": "helloed"
+                    },
+                    {
+                        "name": "过去分词",
+                        "value": "helloed"
+                    }
+                ]
+            },
+            {
+                "transList": [
+                    {
+                        "content": {
+                            "detailPos": "【名】"
+                        },
+                        "trans": "（Hello）（法）埃洛（人名）"
+                    }
+                ],
+                "pos": "【名】"
+            }
+        ]
+    },
+    "etym": {
+        "etyms": {
+            "zh": [
+                {
+                    "source": "童理民",
+                    "word": "hello",
+                    "value": "感叹词，打招呼用语，因电话的普及而广泛流行。最终可能来自hey和lo的合成词。",
+                    "url": "",
+                    "desc": "喂"
+                }
+            ]
+        },
+        "word": "hello"
+    },
+    "senior": {
+        "encryptedData": "P1DvsYU91UyZ2pJDlC3rkt9SzGJ42_Rwror4lgDh36TWqQ7SYbAYdBOhLTSwGGwZfwivHU2VR5mWUS9DtOCmNOX3bZoChLdZ3w1Xqgay_ErXHA-02aFIoNTuCubA-NJjE4BroJx_NzvGt6gwOqP57-ZC7f_qgRM0C0R5f5Tuksfvmz_Z2xrWtNu5l2nYic7S_haprrWruskOJPu4FnoIj_TOoOHHcDPseRfuetCgSIwCMDvXRAhi-MAVeVMqKS7XxQ5dQIysf4ore2eCW6GHo6TIcc8ldWI4dWXOcxXHpmVhxHdmHyFlRWUnv1LAOoHe62uzpUUk4b-F3CEdFVVepS1AwTJU3aIPOoFXs7VrH6T0iDYzdZK9UY0YYO4v-YQeQDEZHaGGOOIaIHG9kiGVWAVBQ0ZOt3VLSaw2qQuzJ0y4YfcxkdCJVpALNxFnRNbt10f2QizfAeamQloYdvRmNY5aO2C5bOL0DZyc48tMf9g-wgylN88riEPTrThFME-qjxZLVfOirSndgCNaBpl_RqqYtWytrW44aM4URmR_ikZ-HUmXDw8ddJ979eIJHmKyWW-S0MzA9NhEk0HSNoWOlj4As7KkT29RrEiJ34ak7ZsilQt-GirZha6XKLhJ8w-HTR69kneizPLkV4Kooxm5bw==",
+        "source": {
+            "name": "《有道高中词典》"
+        }
+    },
+    "input": "hello",
+    "music_sents": {
+        "sents_data": [
+            {
+                "songName": "Hello",
+                "lyricTranslation": "你好 是我",
+                "singer": "Adele",
+                "coverImg": "http://p1.music.126.net/7mQyb-YnNd6CqCjQq4ryjQ==/109951168981824640.jpg?imageView=&type=webp",
+                "supportCount": 212,
+                "lyric": "<b>Hello</b>, it's me",
+                "link": "https://music.163.com/#/song?id=35847388",
+                "lyricList": [
+                    {
+                        "duration": 5100,
+                        "lyricTranslation": "你好 是我",
+                        "lyric": "<b>Hello</b>, it's me",
+                        "start": 0
+                    },
+                    {
+                        "duration": 6410,
+                        "lyricTranslation": "我犹豫着要不要给你来电 不确定多年后你是否还愿相见",
+                        "lyric": "I was wondering if after all these years you'd like to meet",
+                        "start": 5100
+                    }
+                ],
+                "id": "b143283be8",
+                "songId": "ADADC3C05962EF88B7DB1E42EA3DB8D7",
+                "decryptedSongId": "35847388",
+                "playUrl": "https://dict.youdao.com/dictserver/sentencemusic/playUrl?redirectUrl=https%3A%2F%2Fydlunacommon-cdn.nosdn.127.net%2Fb42d3e0d8f60acd9c09c3e52b698758c.mp3"
+            },
+            {
+                "songName": "Hello",
+                "lyricTranslation": "我还是想打给你 即使相隔天边",
+                "singer": "Adele",
+                "coverImg": "http://p1.music.126.net/7mQyb-YnNd6CqCjQq4ryjQ==/109951168981824640.jpg?imageView=&type=webp",
+                "supportCount": 125,
+                "lyric": "<b>Hello</b> from the other side",
+                "link": "https://music.163.com/#/song?id=35847388",
+                "lyricList": [
+                    {
+                        "duration": 5640,
+                        "lyricTranslation": "我还是想打给你 即使相隔天边",
+                        "lyric": "<b>Hello</b> from the other side",
+                        "start": 0
+                    },
+                    {
+                        "duration": 7080,
+                        "lyricTranslation": "即使打上千遍万遍我也想给你来电",
+                        "lyric": "I must've called a thousand times to tell you",
+                        "start": 5640
+                    }
+                ],
+                "id": "f919e07f3c",
+                "songId": "ADADC3C05962EF88B7DB1E42EA3DB8D7",
+                "decryptedSongId": "35847388",
+                "playUrl": "https://dict.youdao.com/dictserver/sentencemusic/playUrl?redirectUrl=https%3A%2F%2Fydlunacommon-cdn.nosdn.127.net%2Fd52b38bf1a82d8d4ba68b860606d304e.mp3"
+            },
+            {
+                "songName": "Ferrari",
+                "lyricTranslation": "每一声\"你好\"其实就意味着\"再见\"",
+                "singer": "Jayvine Ramma",
+                "coverImg": "http://p1.music.126.net/WQBMNn4ykMkXxDezNvM-SA==/109951168292324216.jpg?imageView=&type=webp",
+                "supportCount": 70,
+                "lyric": "Every <b>hello</b> just means goodbye",
+                "link": "https://music.163.com/#/song?id=2020576962",
+                "lyricList": [
+                    {
+                        "duration": 3690,
+                        "lyricTranslation": "每一声\"你好\"其实就意味着\"再见\"",
+                        "lyric": "Every <b>hello</b> just means goodbye",
+                        "start": 0
+                    },
+                    {
+                        "duration": 3710,
+                        "lyricTranslation": "但我这次却期许着更多收获",
+                        "lyric": "But I'm looking for more this time",
+                        "start": 3690
+                    }
+                ],
+                "id": "461de694fb",
+                "songId": "CBEA1578E47DE0FBC056B01A32A67EA9",
+                "decryptedSongId": "2020576962",
+                "playUrl": "https://dict.youdao.com/dictserver/sentencemusic/playUrl?redirectUrl=https%3A%2F%2Fydlunacommon-cdn.nosdn.127.net%2F94e05347dc3c589e063d2314076e1ae1.mp3"
+            }
+        ],
+        "more": false,
+        "word": "hello"
+    },
+    "meta": {
+        "input": "hello",
+        "guessLanguage": "eng",
+        "isHasSimpleDict": "1",
+        "le": "en",
+        "lang": "eng",
+        "dicts": [
+            "web_trans",
+            "oxfordAdvanceHtml",
+            "pic_dict",
+            "simple",
+            "phrs",
+            "oxford",
+            "syno",
+            "collins",
+            "webster",
+            "wikipedia_digest",
+            "ec",
+            "ee",
+            "blng_sents_part",
+            "individual",
+            "collins_primary",
+            "auth_sents_part",
+            "media_sents_part",
+            "expand_ec",
+            "etym",
+            "senior",
+            "music_sents",
+            "meta",
+            "oxfordAdvance"
+        ]
+    },
+    "le": "en",
+    "oxfordAdvance": {
+        "encryptedData": "oGaanzGEv4TFGNkgbPQfjud8s3YxqQChkIEIrFbM1cCSmXZT-r4v8vG6wTjNRlUUmDmE9MtDsHQ9DPL-21sdCpNGxrITeqsXyn5bL9vGHyW-OXALJg5AOE6w38k9SdBEqqzZCdsmS1pm1tsT8yzhRoiEnd2U3sYWBj389-VjQYjy0MovOG47wXMDPYYKjXfb9an9rXoV8vkx_-MAYS8dpbZm9c0IAjaG7e5EAwnWYKOl53YVmvVHCv3GfN7s7VKosHPMgF6NJ7mM1hYjC2v3FgupgXvMDxM_tUtohrTvI3DhMBPM4_5Z5xELScm2GJMPhwPLLCpbAUdy1YgBwHeJmVbxL5gKyPPPcrtnBAZ3yPHfOZhvQt2_HMpxkmlF7JI-3dcu1XE6Qdb_VJ_TxcV5lk_7zBJtyNbYRvGPsxtrmbW5CQdOZleIoORGKelt6YIS_QANZmup9hPaOLkOLKjgX21crIuIX6C1Ralr2wQfXei15_1tFZ85RtgvN6IZ597xcc72C00jFirX8LDfKL4ylv2YDTSzYsPgdh2s8Ph2F0bL3pNvpXYr7AfSd7Rkd6iNc7oMExC1ltyMpcoyeJtfsbFY-0rqGT1jyuhzewhDa0jYaxdNzZ25yDY28JPmlRHljIMoAlgrWX6DR36FHK-L6TAK_ESAuQFrsf6m-HA3XTlR2Wo3vwxujDNVD_-4e2phmEQw2tNRsjHkICxhLD0unruHvELT8NY35VAWCzNo5eEztPDOE4mnwTxTpR1iIzi2fSGbVy3zETRRexkQt-M_V8pmB03Az_L84eHC-TmN5EWRdrDwT-sb4U--xeXtH5e2WJSHXTpBojVVkUcGyNvmjvVAS9rTDWRZnrUAa04zDgyp-t6uq2yFW2h7Y8AwLWo4HHTXE8ixUOZJCH_oZm0dYDKY0tY60AGAlEHTyMtXXPxHJO6XscI_o1UIk1DFDDof0jMmv0mCcG-t0kHxL1iO-MJuQjQXKcFk172qrs92eBtztFngaADUEurK_Fzb9ZMBlTLObpnyolJc26Ecnhz8HDzfgeY4X7rUvXW0aeWPFsoE_P_tMeIha16C23m4atcm615MZLUtM3ZjW-GUKHvgcPhp_qkSLvOWaNduGIW-2j6ILHtfjHdknngLhWyMYd_hanVI5OUwMGZhyrOaTRpU_5FZesGl7NrZz2eBr3wq3sKjD9XtxEtGf4hrHBhEkm5S2CkH6ep2J9H8NsaEvcwA7D9EXXNU9D6lF_3O1V803AF8JOMGOItSAjX0HEiy-EHYHxPY5Ncy5ykIPIEs87g8efDO3OAevS-YXX41SyleI_jeF_A-8f-3phF2M0OYmqIgx1LAzFGRSiN6p1kHRcnTyFd1oFQdlyOE2_z40kHRC3wd43yMi2AXtiSeM6-_qsPluyRcDhSTCkGGfMNs-PAHrEIwGc3hYQMc97WfwfzR54j_WkMgjDrK65exRjJiGv7WEzekA51b6qCYI4mANh7VAK3RR3uqbq3nuXIeTY0nGtZ91Sd8Jy2tv1jAiY3VKprutwGXxKLDsB0FLmEieYZAmlGbgZ_BoxmhGWelJStMLRuMOlubuFNSjd0kpNEmdnpeUm78p9XUbS2AeDTeb6fBp0DehoEkIht7z5kl9UoGBQuzX7SFz-b0sxWuMs-d0HkbmbYm7Tl5Ju3_C1mS4c86BUpPvjLhIWeBhMmq-nxoA8dl-bUvdCuCuNoXPt7BFhdm98jFnEfJPPTCDr2avr_qx2cBe2kuSTnN9sgay52jUqeOpOL0oVHDn8v9CGfXQQBS6JR5fX3asiOGT7p3EFnJdTYurEQHpJMtRhtJDGvK4dhgHoUyZlmunBDEdlgrmh0cR-Wj1WdxEOkJ27Rprud4KCcwnxv7uycAiURIBGqu3cEr1t2RiDP9ql6r7nTHT48l4k9bDXqxTSVszbDSi7SMdZV97VFJBM9y40msYBVgJW67GmN1NaCciSUAxAIRWtbNZ0TVJ_xYtWPmWiQP7ziQ4WlrPjBvbWqgMBKN74uKZ3XlDYZww32UgWIZyavkpAy3P4MPz-CIA9qDttEe5A-zsfyv2cUW2TLBOCb87h5gVPFLjp5bAT8hNvozBc3z9gVCqYGOTxsPsgJvGf0o6r2tfmslo0PuVRN4qUSOet5uImp_jQjYoyOfHlyiuTcDGglQ1X9zHr5TLVqzW3mu6I88SlMF27a0CVK74bYQTdh2axxgfADTb6JMSajgYoQhy2oU18mhub3lHLn04otrtZe-f_r3s4-dk_3oYNniqKJGSgb-aojbItcfthon08fpJvKtZ-Ek4Xm0ABUc8IjyegpZKomccYe_FfH8iTmAnt0-x_jsCAXnYNfbbYdmLu-hK_jEv3VMXo-11tdwKJJCCasaO3PgAD2nTixw-MygB93J3q0Ncx0dZCo0ru5-ULtuOD-rEUhoPzQYx094XFdBNnNJ1JfFSRTSL6BFhenejr9Lqb7esWQAE5w4BIrz1Xe29_T59rbdgYY4s6371eOKMGQGxvn3PXC6_iJTV7_NtKG_J-KOlAT8I4is0GzMr1GAl-yStZvC1MOmIrYRGtQBd3KxKm8bI7_0zejdY6NVk4Kw9M6OSGLmqW5rmGKXj1AqZqAlHITfw40CxtlPOm90XpujGQVggPtuoqNmMKtDoy2B0uVPzPnTMTIDTFYBy7OImva7C2hR5waubXQFMOAw6KHNYHetdGwo7diNb4iC20qQ1FDHcbTGMGeQt-bKeOVnqLfQvpcBeJRiaUmn5ajDLueO7zdP02tiRzLajoHjhlmAfMh5oWvxZkDoxsAmZub0t03wNzePSCWhvG_yLnDsavnYTvmVZp7g8UjWPvTL4tbKVKBfbOiClvpuO2We--xKm20VlcDq-IS9m3YDW3Fz7U0rGq1fGkfamx-1yVIST_O6EI6ttw4cdTqAgkLMT5tv80KoYpbScTj14xtFghlMcYVdIJF3xsI2qFpPrSftTL0ih3pEWYnOn1nF3O6ro5jCAWh9TmsCQpBhSqShvrAh2dHz93oCVVM4WHaPQdtluUMwpsh-kBjFjj9Y9V0WRk_1j-Pgc2o5uQlOA-rLpIGwYNFG-vttrppuk5BoHUo1HHF-sPS7vkWlooHVU0aajyK01vyF8mgS8SRBi1eZBk6-O1LcsRL_ktoTd7qXvKPW5hBX4rt0mGoY706imeXy2pto6ZLGO-qMqfZU8QomOW-ymqCcZj_svrt2g0naYTp4qK1eFmHszhIz6uDdJHkKsw4YBnUGcpucHxvSMKm3PhPK1M8-x4lt8h2Q5WyVzg7ZbFlLvqvHXPfr4P1e-zTUxeiby-YZdsFNtZ4PrYR5zXj9Iu3PFoIGKtm9_gUFHfMM8pnkRwtZ4EI-NGQhSPbGHpnGY1tk5C1DNBorkCWC6a6qLj3TZjnMrmtxWedA0jZml1AickCqR1nJ34H_OxauEP_2hkQU4hvE5msbGQTk8Tg-plhipPhsNgdm1sfM0Q2CXEtj5bMas4ftmUekNbKjm1H-4WT7QhH6nBFXJVnwedjMQ8ETRYmATPJuwmlqcXyv1g8DlN3StPW78z3Ojbbs-72o9CosvyobGehQ2kAmuPCQqtxnXPMAWz5Cdj4JboRUpr5hY7eoVjaAqV4Q6SZLr1mafmrbzWaqpVx76TvoRHKzriauAMJ-Gy5PAELtfJGr_Uu8GLmoHyyQM-4WMH9ZIRSFuY6UPPdcASBa6yyLzYGhTzyKYfvais33JS3L9LEUTrSReK2wypn_qrgu1wsJa0NI3uyyzMFPL9de5P-s6IDe0Q61p287z15NtyTTmvMwFPTyDl5apIoInyZiQbWKdJpaoTMsWyApmtICbJubEXRIWgMvjURoPWFj-yKjRaXqyo3uDa9zy5olUF4GrYJa66vhQrUv7749_fUMTcDj_PDj7lXvleS4ShRfIsMnXt59-WXDu-Ivo5WjfGugW0SF8OSaM3pceWXF1sBNERKWEx0vaJfSnt78JVLBdwXVGfMIjqD8YdSzlygXAorFTuqApTEOvAUTGc6TRQf2CHKBwhfcWU9R6-uRvJbME7s8aEWmlQePBDtaRT6ZMfYugv2IRisluKhrvgRG2oThWLiyiG9l3AbWPVOGBRBI15_7BIXsszs4Ghde1TLwZvXzz8gpgPD2QMGebJ91Yimn2JG42j4cPV2PyUl_BeLfJC6KE78l4Z1c9ccY99_vWGiMbLKGQGLEjKZqXJPxGKXas4h0iagPD59CxBnyY12csB2eI3XnhialKM4amHCM2Uc-CD0PSh_Aeno-WJpmt7pi4akmyUa6Q5vghXzW-pED7eBNf7ZUTFnVFyMMfGMf8nmfmGorNkZVv5ucLP0eV-u3rwwZiITE30uWHWiBWAeEYHHYF_rtJelSOx3_xIVqwvTD-lr9L4f3FB30JVrfWWRrgWTJm-OtDf6eeLQOtBTR5mqXMPszdNQnJY7hZrtje6vZEopyzWvMMNnlqX2RkiZqqoHgq20sXRWE2Pt_3km0uEybbWL4n7_s7y6xecy1k3q7rLjzfTx33o6706_8440_c9iPDjL9DAQqpP_LBmCca3lu3CRmJXVRs9_mZ1i_B6GEDTaJp2bd-oNpc7L05_ghm-y8jiVCY_VdBOcsGPmXof54GUboVyTqEm2ljNurkF05Wn6GZdq0g6ROttYL8oqwBRew56HzflpgClPrnLnvcJ92XK62wvc1h-c2AWbFQeRTeXfPpBc_tEW62WRpy1d1zl1cD3CaBe0Xk_hisUdjxL3ojyqp_XSa2AelTG2fHR64l6hY49mB2Q35Q7OG6PIZAxDIb1QYtYiP7FrGOyomJPOTaGqzS79UHPEGA7MVzqzhZUffMkLmLULFXcSOe4EDbEDrKesZBbs8pirMCXGG1xsdSl5luH953qloP_5mI3NpNqdK0JV2J0h0xhcAD43o_tMxHD8IDh1bbw4RWrr5opYKHCFM29E0e7gj_Q_RLGjpM69pFP8dSXU0fqbFyc4IJ9HUA70goma8Ajv9Ugiz91O_leUA7BGvUO-lvGbMxJ9_hUAELUWsq-1gw1tGvgquXEGqCO-0KDUqn7_KQEr-VIBD2auFLf7SBxzgVwBFlI5v2YxMAF6aeCIrhzEiU_Yl92jv8DZsX_nL_Mg9ajIy73yRLu6VjJ8IzLMqRHhxC7AMaVf1sEQoV3lrD4BryEzm2D4gDIYPIQZNhz8fGGv5vgOGReAKKtAxBQ7CtYXYRXhml3RNpHvxhuOkeJBMUYdQNXF-xO3yvBeJzM-iAhbenlrvuJe1vzx1T44eCv77w-OIfNPqYRikESQxaqETGk9rxCy0b8N5-TYozXEaJibbbAc2iGZRHtwV8-xKDFH0RETd21a9_m2jzKC8RCEULTLFapw965hy-6dOeSBcKnO4qUBaqOSXoKjyWZoXmQ4OUPtEWARjfKrOMMUdAGQ5rr2tpa3G7nhw4dbtc3xxr5gv1PeVN8VThzGYdASd-IRS07ruWB0747H1QpGKIBiritqBIZe2MNqxQE2qR3x1UvNLvlkV3-P5hH997dI_2KSsk3sdw_nty_FSN3G2u59R51soCpcqUrDRCOBgUpbKoON4CgC0OvSi3Koe-WHEmkaIWV2UFKJch2UYvvl8t_GN86Wvkys9XnAZJuwbDHCI5Jyw9CeyaV_gDGLc4QG3jBx4gv_FIIXO1vKvA2Xz9fmG0F7xeNzwU_KWyXvVq6RV8nO6S7tNqrh7TtQ3FPRIVO6AlNjCotbVinS-xDknIrnGQtY93STZdS-j7dfQ6kTSyyhUCR6lOHXBcj7T2N68IBwCMXPKJlG-weyCF4JMmGsuKr98H4W4ch0pCOG9ta4MUkdz99rH71XRhI8Di03J0upQurFANvjM_fFNGelQxXyzMemoZDBwtccuR4bmb7khu111JTtfe2HafKd3UKWTvZRSJEc4PAY74C2TOBIbnOeQqy-eAnIP6GP28MeP90bLuuqwXB8pSO-Ed85xzvwte5hclllU_kCEhuYf1C__cUCbfKLEEs-H_lPaUuplH5SDZfxgn2HQ_AE2pzgaSvh1QKGCzLVe-gJeee-emHUH-oBfQ3Kas8MDMppWY46Vs20f0F2kQKzSjN5FAbIOtlfiWkIrde3P5n-ZQ0T6XScVrngXtzpS0Ri8MdZ-FFp4uZWaVwT2zuHTCiEKekEBiI5b-SfbU3-fQ1zJ-Mhj6Q48Bk_xG9UyzGBpqRu64lFlFXnTu4sgui7sY3SKBHTDHQun2pOQXE2NgLv_aTdYOPz2bwAm5UzAx4V-M4R2Q9CsEyr9FXlfx9yHfpK9Ot7Mkv1r-6NrADHuqWNW7XEYGLiLLyg4BfelYcJTzAZ42PiT8BTcOvyRZWxc-OHFoYEwAXpWPFtFfhgNzanm_2dr20oONUqCCIhMRheVBA-kuuDqMfSzG2wAhs1_-pCNHOGfoZct6iR-8UCiied9wWM4yt7hM2iZWystjr1r2mR4ploGWQyF0LUgHGGhbGqS9DXLPt7u66BjUqN3BKiC8ecPgHP6eUNf5Y81F068dSrWo4NNm1mTGExo-2JCyBPFruvtFdA4rWRxFuY182KJjzyfSAEYLUkvVOZharBcrog6eaETCkzzQYlqYqXSu_ElL2buryEVh3zhSiJFv6NAF_uuROaWEmEWwdMy7qzv2SlmweETHZvQYVVjIPRWRdMAPXmu3qMovAV1lF_StghuRf-bFd7xcl6Hj_THqMnKt4SkPPMJ6Ob3hOVGNH_v7RjPlrlpsCKHybK7gxy1UBuVH5xV7gWkLHz-OdAElgEK6-AI-uAcN2toL_xUl18VOqkiwMsVFiMxTA-1B-v0MCGjaVkWYMLv"
+    }
+}

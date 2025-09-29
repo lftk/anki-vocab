@@ -1,0 +1,28 @@
+# 有道词典
+#
+# 有道词典用于查询单词释义和获取发音。
+# 目前，此程序使用的是有道网页版的公开接口，通常不需要特殊配置。
+youdao:
+  # user_agent 是可选的，用于模拟浏览器请求，一般无需修改。
+  # user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+
+# 火山方舟大模型服务平台
+#
+# 用于通过大模型（如 DeepSeek）生成 AI 相关的单词助记内容，例如中文谐音、用法等。
+# 您需要开通火山引擎大模型服务并获取 API Key。
+# 访问地址: https://www.volcengine.com/product/ark
+volcengine:
+  # API Key
+  # 格式通常为 "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+  api_key: "<YOUR_ARK_API_KEY>"
+
+  # 模型名称
+  # 详见：https://www.volcengine.com/docs/82379/1330310
+  model: "deepseek-v3-1-250821"
+
+  # 系统提示词（Prompt）
+  # 这是您向大模型下达的指令，用于指导它如何根据输入的单词生成您想要的内容。
+  # 程序中已经内置了 Prompt，您也可以根据自己的需求修改和定制这个 Prompt。
+  # 可以参考: internal/dict/volcengine/prompt.txt
+  # prompt: | 
+  #   你是一个专业的英语教学专家...

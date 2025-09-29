@@ -1,0 +1,6 @@
+{{range .youdao.syno.synos | limit 3}}
+<div class="synonym">
+    <span class="meta">{{.pos}} {{.tran}}</span>
+    <span class="words">{{.ws | join " / "}}</span>
+</div>
+{{end}}

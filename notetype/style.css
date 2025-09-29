@@ -1,0 +1,249 @@
+:root {
+    --text-primary: #333333;
+    --text-secondary: #666666;
+    --phonetic-color: #1a73e8;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text-primary: #e8eaed;
+        --text-secondary: #9aa0a6;
+        --phonetic-color: #8ab4f8;
+    }
+}
+
+.nightMode :root {
+    --text-primary: #e8eaed;
+    --text-secondary: #9aa0a6;
+    --phonetic-color: #8ab4f8;
+}
+
+.card-front {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.word {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 1rem 0;
+    color: var(--text-primary);
+}
+
+.phonetic {
+    color: var(--phonetic-color);
+    font-size: 15px;
+    display: inline-block;
+}
+
+.phonetic::before,
+.phonetic::after {
+    color: var(--text-secondary);
+    content: "/";
+}
+
+.exam-tags {
+    display: block;
+    margin: 0.8rem 0;
+    color: var(--text-secondary);
+}
+
+.exam-tags::before {
+    color: var(--text-secondary);
+    content: "（";
+}
+
+.exam-tags::after {
+    color: var(--text-secondary);
+    content: "）";
+}
+
+.exam-tags span {
+    display: inline-block;
+    color: var(--text-primary);
+    padding: 0.25rem 0.6rem;
+    border-radius: 4px;
+    margin: 0.2rem;
+    font-size: 12px;
+}
+
+.pronunciation {
+    display: block;
+    margin-top: 0.8rem;
+}
+
+/* ---------------------------------------- */
+
+
+.core {
+    text-align: center;
+}
+
+.definitions {
+    font-size: 1.05em;
+    line-height: 1.6;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.mnemonic {
+    color: var(--phonetic-color);
+    font-size: 15px;
+    display: inline-block;
+}
+
+.mnemonic::before {
+    color: var(--text-secondary);
+    content: "「";
+}
+
+.mnemonic::after {
+    color: var(--text-secondary);
+    content: "」";
+}
+
+.grammar-forms {
+    font-size: 0.85em;
+    color: var(--text-secondary);
+    font-style: italic;
+}
+
+.ai-generated {
+    text-align: center;
+}
+
+
+
+hr {
+    border: 0;
+    height: 1px;
+    background: var(--text-secondary);
+    opacity: 0.3;
+    margin: 1.2rem 0;
+}
+
+.sentence,
+.phrase,
+.synonym,
+.etymology {
+    position: relative;
+    padding-left: 1.2em;
+    margin-bottom: 0.6em;
+    text-align: left;
+    line-height: 1.4;
+}
+
+.sentence:last-child,
+.phrase:last-child,
+.synonym:last-child,
+.etymology:last-child {
+    margin-bottom: 0;
+}
+
+.sentence::before,
+.phrase::before,
+.synonym::before,
+.etymology::before {
+    content: "•";
+    color: var(--phonetic-color);
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.sentence span,
+.phrase span,
+.synonym span {
+    display: block;
+    line-height: 1.5;
+}
+
+.sentence .source {
+    font-style: italic;
+    font-size: 0.9em;
+    color: var(--text-secondary);
+}
+
+.synonym .meta {
+    font-style: italic;
+    color: var(--text-secondary);
+    font-size: 0.95em;
+}
+
+.phrase .headword,
+.synonym .words,
+.etymology .etym-word {
+    font-weight: 500;
+    color: var(--text-primary);
+}
+
+.sentence .translation,
+.phrase .translation {
+    color: var(--text-secondary);
+    font-size: 0.95em;
+}
+
+.etymology .value {
+    margin-left: 0.5em;
+    color: var(--text-secondary);
+}
+
+.section-container+.section-container {
+    margin-top: 1.5rem;
+}
+
+.section-title {
+    font-size: 0.9em;
+    font-weight: 600;
+    color: var(--text-secondary);
+    margin-bottom: 0.8rem;
+    position: relative;
+    padding-left: 0.8em;
+}
+
+.section-title::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 10%;
+    height: 80%;
+    width: 3px;
+    background-color: var(--phonetic-color);
+    border-radius: 2px;
+}
+
+.ai-generated {
+    padding: 0 1em;
+}
+
+.ai-generated>div {
+    margin-top: 0.8em;
+}
+
+.ai-generated>div:first-child {
+    margin-top: 0;
+}
+
+.visual-image {
+    font-style: italic;
+    color: var(--text-secondary);
+}
+
+.mini-story {
+    line-height: 1.6;
+}
+
+.usage {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+}
+
+.sentence .highlight,
+.mini-story .highlight,
+.usage .highlight {
+    display: inline;
+    color: var(--phonetic-color);
+    font-weight: 500;
+}

@@ -1,0 +1,1127 @@
+## Lesson 001: Excuse me!
+excuse
+me
+yes
+is
+this
+your
+handbag
+pardon
+it
+thank you
+very much
+
+## Lesson 002: Is this your ...?
+pen
+pencil
+book
+watch
+coat
+dress
+skirt
+shirt
+car
+house
+
+## Lesson 003: Sorry, sir.
+umbrella
+please
+here
+my
+ticket
+number
+five
+sorry
+sir
+cloakroom
+
+## Lesson 004: Is this your ...?
+suit
+school
+teacher
+son
+daughter
+
+## Lesson 005: Nice to meet you.
+Mr.
+good
+morning
+Miss
+new
+student
+French
+German
+nice
+meet
+Japanese
+Korean
+Chinese
+too
+
+## Lesson 006: What make is it?
+make
+Swedish
+English
+American
+Italian
+Volvo
+Peugeot
+Mercedes
+Toyota
+Daewoo
+Mini
+Ford
+Fiat
+
+## Lesson 007: Are you a teacher?
+I
+am
+are
+name
+what
+nationality
+job
+keyboard
+operator
+engineer
+
+## Lesson 008: What's your job?
+policeman
+policewoman
+taxi driver
+air hostess
+postman
+nurse
+mechanic
+hairdresser
+housewife
+milkman
+
+## Lesson 009: How are you today?
+hello
+hi
+how
+today
+well
+fine
+thanks
+goodbye
+see
+
+## Lesson 010: Look at ...
+fat
+woman
+thin
+tall
+short
+dirty
+clean
+hot
+cold
+old
+young
+busy
+lazy
+
+## Lesson 011: Is this your shirt?
+whose
+blue
+perhaps
+white
+catch
+
+## Lesson 012: Whose is this ...?
+father
+mother
+blouse
+sister
+tie
+brother
+his
+her
+
+## Lesson 013: A new dress
+colour
+green
+come
+upstairs
+smart
+hat
+same
+lovely
+
+## Lesson 014: What colour is your ...?
+case
+carpet
+dog
+
+## Lesson 015: Your passports, please.
+Customs
+officer
+girl
+Danish
+friend
+Norwegian
+passport
+brown
+tourist
+
+## Lesson 016: Are you ...?
+Russian
+Dutch
+these
+red
+grey
+yellow
+black
+orange
+
+## Lesson 017: How do you do?
+employee
+hard-working
+sales reps
+man
+office
+assistant
+
+## Lesson 019: Tired and thirsty
+matter
+children
+tired
+boy
+thirsty
+mum
+sit down
+right
+ice cream
+
+## Lesson 020: Look at them!
+big
+small
+open
+shut
+light
+heavy
+long
+shoe
+grandfather
+grandmother
+
+## Lesson 021: Which book?
+give
+one
+which
+
+## Lesson 022: Which one?
+empty
+full
+large
+little
+sharp
+small
+big
+blunt
+box
+glass
+cup
+bottle
+tin
+knife
+fork
+
+## Lesson 023: Which glasses?
+on
+shelf
+
+## Lesson 024: Which ones?
+desk
+table
+plate
+cupboard
+cigarette
+television
+floor
+dressing table
+magazine
+bed
+newspaper
+stereo
+
+## Lesson 025: Mrs. Smith's Kitchen
+Mrs.
+kitchen
+refrigerator
+right
+electric
+left
+cooker
+middle
+of
+room
+cup
+
+## Lesson 026: Where is it?
+where
+in
+
+## Lesson 027: Mrs. Smith's living room
+living room
+near
+window
+armchair
+door
+picture
+wall
+
+## Lesson 028: Where are they?
+trousers
+
+## Lesson 029: Come in, Amy.
+shut
+bedroom
+untidy
+must
+open
+air
+put
+clothes
+wardrobe
+dust
+sweep
+
+## Lesson 030: What must I do?
+empty
+read
+sharpen
+put on
+take off
+turn on
+turn off
+
+## Lesson 031: Where's Sally?
+garden
+under
+tree
+climb
+who
+run
+grass
+after
+cat
+
+## Lesson 032: What's he/she/it doing?
+type
+letter
+basket
+eat
+bone
+clean
+tooth
+cook
+milk
+meal
+drink
+tap
+
+## Lesson 033: A fine day
+day
+cloud
+sky
+sun
+shine
+with
+family
+walk
+over
+bridge
+boat
+river
+ship
+aeroplane
+fly
+
+## Lesson 034: What are they doing?
+sleep
+shave
+cry
+wash
+wait
+jump
+
+## Lesson 035: Our village
+photograph
+village
+valley
+between
+hill
+another
+wife
+along
+bank
+water
+swim
+across
+building
+park
+into
+
+## Lesson 036: Where ...?
+beside
+off
+
+## Lesson 037: Making a bookcase
+work
+hard
+make
+bookcase
+hammer
+paint
+pink
+favourite
+
+## Lesson 038: What are you going to do?
+homework
+listen
+dish
+
+## Lesson 039: Don't drop it!
+front
+in front of
+careful
+vase
+drop
+flower
+
+## Lesson 040: What are you going to do?
+show
+send
+take
+
+## Lesson 041: Penny's bag
+cheese
+bread
+soap
+chocolate
+sugar
+coffee
+tea
+tobacco
+
+## Lesson 042: Is there a ... in/on that ...?
+bird
+any
+some
+
+## Lesson 043: Hurry up!
+of course
+kettle
+behind
+teapot
+now
+find
+boil
+
+## Lesson 045: The boss's letter
+can
+boss
+minute
+ask
+handwriting
+terrible
+
+## Lesson 046: Can you ...?
+lift
+cake
+biscuit
+
+## Lesson 047: A cup of coffee
+like
+want
+
+## Lesson 048: Do you like ...?
+fresh
+egg
+butter
+pure
+honey
+ripe
+banana
+jam
+sweet
+orange
+Scotch whisky
+choice
+apple
+wine
+beer
+blackboard
+
+## Lesson 049: At the butcher's
+butcher
+meat
+beef
+lamb
+husband
+steak
+mince
+chicken
+tell
+truth
+either
+
+## Lesson 050: He likes ...
+tomato
+potato
+cabbage
+lettuce
+pea
+bean
+pear
+grape
+peach
+
+## Lesson 051: A pleasant climate
+Greece
+climate
+country
+pleasant
+weather
+spring
+windy
+warm
+rain
+sometimes
+summer
+autumn
+winter
+snow
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+## Lesson 052: What nationality are they?
+the U.S.
+Brazil
+Holland
+England
+France
+Germany
+Italy
+Norway
+Russia
+Spain
+Sweden
+
+## Lesson 053: An interesting climate
+mild
+always
+north
+east
+wet
+west
+south
+season
+best
+night
+rise
+early
+set
+late
+interesting
+subject
+conversation
+
+## Lesson 054: What nationality are they?
+Australia
+Australian
+Austria
+Austrian
+Canada
+Canadian
+China
+Finland
+Finnish
+India
+Indian
+Japan
+Nigeria
+Nigerian
+Turkey
+Turkish
+Korea
+Polish
+Poland
+Thai
+Thailand
+
+## Lesson 055: The Sawyer family
+live
+stay
+home
+housework
+lunch
+afternoon
+usually
+together
+evening
+arrive
+night
+
+## Lesson 057: An unusual day
+o'clock
+shop
+moment
+
+## Lesson 059: Is that all?
+envelope
+writing paper
+shop assistant
+size
+pad
+glue
+chalk
+change
+
+## Lesson 061: A bad cold
+feel
+look
+must
+call
+doctor
+telephone
+remember
+mouth
+tongue
+bad
+cold
+news
+headache
+aspirin
+earache
+toothache
+dentist
+stomach ache
+medicine
+temperature
+flu
+measles
+mumps
+
+## Lesson 063: Thank you, doctor.
+better
+certainly
+get up
+yet
+rich
+food
+remain
+
+## Lesson 064: Don't ...!
+play
+match
+talk
+library
+drive
+so
+quickly
+lean out of
+break
+
+## Lesson 065: Not a baby
+Dad
+key
+baby
+hear
+enjoy
+yourself
+ourselves
+
+## Lesson 066: What's the time?
+myself
+themselves
+himself
+herself
+
+## Lesson 067: The weekend
+greengrocer
+absent
+Monday
+Tuesday
+Wednesday
+Thursday
+keep
+spend
+weekend
+Friday
+Saturday
+Sunday
+country
+lucky
+
+## Lesson 068: What's the time?
+church
+dairy
+baker
+grocer
+
+## Lesson 069: The car race
+year
+race
+town
+crowd
+stand
+exciting
+just
+finish
+winner
+behind
+way
+
+## Lesson 071: He's awful!
+awful
+telephone
+time
+answer
+last
+phone
+again
+say
+
+## Lesson 073: The way to King Street
+week
+London
+suddenly
+bus stop
+smile
+pleasantly
+understand
+speak
+hand
+pocket
+phrasebook
+phrase
+slowly
+
+## Lesson 074: What did they do?
+hurriedly
+cut
+thirstily
+go
+greet
+
+## Lesson 075: Uncomfortable  shoes
+ago
+buy
+pair
+fashion
+uncomfortable
+wear
+
+## Lesson 077: Terrible toothache
+appointment
+urgent
+till
+
+## Lesson 079: Carol's shopping list
+shopping
+list
+vegetable
+need
+hope
+thing
+money
+
+## Lesson 080: I must go to the ...
+groceries
+fruit
+stationery
+newsagent
+chemist
+
+## Lesson 081: Roast beef and potatoes
+bath
+nearly
+ready
+dinner
+restaurant
+roast
+
+## Lesson 082: I had ...
+breakfast
+haircut
+party
+holiday
+
+## Lesson 083: Going on holiday
+mess
+pack
+suitcase
+leave
+already
+
+## Lesson 085: Paris in the spring
+Paris
+cinema
+film
+beautiful
+city
+never
+ever
+
+## Lesson 087: A car crash
+attendant
+bring
+garage
+crash
+lamp-post
+repair
+try
+
+## Lesson 089: For sale
+believe
+may
+how long
+since
+why
+sell
+because
+retire
+cost
+pound
+worth
+penny
+
+## Lesson 091: Poor Ian!
+still
+move
+miss
+neighbour
+person
+people
+poor
+
+## Lesson 093: Our new neighbour
+pilot
+return
+New York
+Tokyo
+Madrid
+fly
+
+## Lesson 094: When did you/will you go to ...?
+Athens
+Berlin
+Bombay
+Geneva
+Moscow
+Rome
+Seoul
+Stockholm
+Sydney
+
+## Lesson 095: Tickets, please.
+return
+train
+platform
+plenty
+bar
+station
+catch
+miss
+
+## Lesson 097: A small blue case
+leave
+describe
+zip
+label
+handle
+address
+pence
+belong
+
+## Lesson 099: Ow!
+ow
+slip
+fall
+downstairs
+hurt
+back
+stand up
+help
+at once
+sure
+X-ray
+
+## Lesson 101: A card from Jimmy
+Scotland
+card
+youth
+hostel
+association
+soon
+write
+
+## Lesson 103: The French test
+exam
+pass
+mathematics
+question
+easy
+enough
+paper
+fail
+answer
+mark
+rest
+difficult
+hate
+low
+cheer
+guy
+top
+
+## Lesson 104: Too, very, enough
+clever
+stupid
+cheap
+expensive
+fresh
+stale
+low
+loud
+high
+hard
+sweet
+soft
+sour
+
+## Lesson 105: Full of mistakes
+spell
+intelligent
+mistake
+present
+dictionary
+
+## Lesson 106: I want you/him/her/them to ...
+carry
+correct
+
+## Lesson 107: It's too small.
+madam
+as well
+suit
+pretty
+
+## Lesson 109: A good idea
+idea
+a little
+teaspoonful
+less
+a few
+pity
+instead
+advice
+
+## Lesson 110: How do they compare?
+most
+least
+best
+worse
+worst
+
+## Lesson 111: The most expensive model
+model
+afford
+deposit
+instalment
+price
+millionaire
+
+## Lesson 113: Small change.
+conductor
+fare
+change
+note
+passenger
+none
+neither
+get off
+tramp
+except
+
+## Lesson 115: Knock, Knock!
+anyone
+knock
+everything
+quiet
+impossible
+invite
+anything
+nothing
+lemonade
+joke
+
+## Lesson 116: Every, no, any and some
+asleep
+glasses
+
+## Lesson 117: Tommy's breakfast
+dining room
+coin
+mouth
+swallow
+later
+toilet
+
+## Lesson 118: What were you doing?
+ring
+
+## Lesson 119: A true story
+story
+happen
+thief
+enter
+dark
+torch
+voice
+parrot
+
+## Lesson 120: It had already happened.
+exercise book
+
+## Lesson 121: The man in a hat
+customer
+forget
+manager
+serve
+counter
+recognize
+
+## Lesson 122: Who (Whom), which and that
+road
+
+## Lesson 123: A trip to Australia
+during
+trip
+travel
+offer
+job
+guess
+grow
+beard
+
+## Lesson 124: (Who)/(Whom), (which) and (that)
+kitten
+
+## Lesson 125: Tea for two
+water
+terribly
+dry
+nuisance
+mean
+surprise
+
+## Lesson 126: Have to and do not need to
+immediately
+
+## Lesson 127: A famous actress
+famous
+actress
+at least
+actor
+read
+
+## Lesson 129: Seventy miles an hour
+wave
+track
+mile
+overtake
+speed
+dream
+sign
+driving licence
+charge
+darling
+
+## Lesson 131: Don't be so sure!
+Egypt
+abroad
+worry
+
+## Lesson 133: Sensational news!
+reporter
+sensational
+mink coat
+
+## Lesson 135: The latest report
+future
+get married
+hotel
+latest
+introduce
+
+## Lesson 137: A pleasant dream
+football
+pool
+win
+world
+poor
+depend
+
+## Lesson 139: Is that you, John?
+extra
+engineer
+overseas
+engineering
+company
+line
+
+## Lesson 141: Sally's first train ride
+excited
+get on
+middle-aged
+opposite
+curiously
+funny
+powder
+compact
+kindly
+ugly
+amused
+smile
+embarrassed
+
+## Lesson 142: Someone invited Sally to a party.
+worried
+regularly
+
+## Lesson 143: A walk through the woods
+surround
+wood
+beauty spot
+hundred
+city
+through
+visitor
+tidy
+litter
+litter basket
+place
+throw
+rubbish
+count
+cover
+piece
+tyre
+rusty
+among
+prosecute

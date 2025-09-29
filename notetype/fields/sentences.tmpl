@@ -1,0 +1,7 @@
+{{range .youdao.blng_sents_part.sentence_pair | limit 3}}
+<div class="sentence">
+    <div class="sentence-en">{{.sentence | highlight_word}}</div>
+    <div class="sentence-cn">{{.sentence_translation}}</div>
+    <div class="source">{{.source}}</div>
+</div>
+{{end}}

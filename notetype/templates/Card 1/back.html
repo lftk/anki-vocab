@@ -1,0 +1,47 @@
+{{FrontSide}}
+<hr id="answer">
+<div class="card-back">
+  <!-- 1. 核心区 -->
+  <div class="core">
+    <div class="mnemonic">{{mnemonic}}</div>
+    <div class="definitions">{{definitions}}</div>
+    <div class="grammar-forms">{{word_forms}}</div>
+  </div>
+  <hr>
+  <!-- 2. AI辅助内容 -->
+  <div class="ai-generated">
+    <div class="visual-image">{{image}}</div>
+    <div class="mini-story">{{story}}</div>
+    {{#usage}}
+      <div class="usage">{{usage}}</div>
+    {{/usage}}
+  </div>
+  <hr>
+  <!-- 3. 语境应用（新增usage） -->
+  <div class="context">
+    {{#sentences}}
+      <div class="section-container">
+        <h3 class="section-title">SENTENCES / 例句</h3>
+        <div class="sentences">{{sentences}}</div>
+      </div>
+    {{/sentences}}
+    {{#phrases}}
+      <div class="section-container">
+        <h3 class="section-title">PHRASES / 短语</h3>
+        <div class="phrases">{{phrases}}</div>
+      </div>
+    {{/phrases}}
+    {{#synonyms}}
+      <div class="section-container">
+        <h3 class="section-title">SYNONYMS / 同义词</h3>
+        <div class="synonyms">{{synonyms}}</div>
+      </div>
+    {{/synonyms}}
+    {{#etymologies}}
+      <div class="section-container">
+        <h3 class="section-title">ETYMOLOGY / 词源</h3>
+        <div class="etymologies">{{etymologies}}</div>
+      </div>
+    {{/etymologies}}
+  </div>
+</div>
