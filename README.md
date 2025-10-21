@@ -4,10 +4,12 @@
 
 它通过集成有道词典和火山方舟大模型（支持 DeepSeek 等），自动为单词填充释义、发音、词源、助记法、例句、近义词、故事等多种信息，极大地提升了制作 Anki 词汇卡的效率和质量。
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/abandon.dark.png">
-  <img alt="Anki card example for 'abandon'" src="docs/screenshots/abandon.light.png" width="70%">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/abandon.dark.png">
+    <img alt="Anki card example for 'abandon'" src="docs/screenshots/abandon.light.png" width="70%">
+  </picture>
+</p>
 
 ## ✨ 主要特性
 
