@@ -59,6 +59,9 @@ func (d *Dict) Query(ctx context.Context, word string) ([]byte, error) {
 				},
 			},
 		},
+		ResponseFormat: &model.ResponseFormat{
+			Type: model.ResponseFormatJsonObject,
+		},
 	}
 	resp, err := d.client.CreateChatCompletion(ctx, req)
 	if err != nil {
