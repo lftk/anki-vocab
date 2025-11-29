@@ -201,6 +201,7 @@ hr {
     margin-bottom: 0.8rem;
     position: relative;
     padding-left: 0.8em;
+    text-align: left;
 }
 
 .section-title::before {
